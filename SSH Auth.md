@@ -15,11 +15,11 @@ to actually make this vault use the SSH Auth go into github desktop, repository 
 Add the `sshCommand = "ssh -i ~/.ssh/github_key"` to the .git/config file inside the [core] section, of the .git file is in the local project repo itself, just do the initial clone with http, if messed up before and your getting [[#Host Key Validation Failed]] see below.
 The Private Key that is referenced in the snippet below must be the same one on all computers since that is the one linked to the public key added in github.
 should look something like this 
-(on windows this is the same though this looks like bash syntax, ~ translated to user folder)
+(on windows this is the same though this looks like bash syntax, ~ translated to user folder don't try to use a C: path)
 ![[Pasted image 20221125014758.png]]
 Obviously replace "github_key" with the private key FILE that was generated earleir.
  
-This is only necessary if there is no access to ssh-agent **AND** no admin perms, `ssh-agent ` can be manually enabled if administrator privalledges are allowed (windows here)
+This is only necessary if there is no access to ssh-agent **AND** no admin perms, `ssh-agent ` can be manually enabled if administrator privalledges are allowed (powershell snippet 4 windows)
 ```powershell
 # By default the ssh-agent service is disabled.
 Get-Service -Name ssh-agent | Set-Service -StartupType Automatic
