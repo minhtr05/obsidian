@@ -9,11 +9,10 @@ running `ssh-add ~/.ssh/id_<name>`
 to actually make this vault use the SSH Auth go into github desktop, repository from top bar, properties, and change the URL to the SSH Url, then all is good
 
 
-[Reference](https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714)
-Just use the comment version for reference.
 
 #### Cant ssh-add
-add the `sshCommand = "ssh -i ~/.ssh/github_key"` to the .git/config file inside the [core] section, the .git file is in the local project repo itself, just do the initial clone with http, if messed up before and your getting [[#Host Key Validation Failed]] see below.
+[Careful only listen to the comment main post is aids](https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714)
+Add the `sshCommand = "ssh -i ~/.ssh/github_key"` to the .git/config file inside the [core] section, of the .git file is in the local project repo itself, just do the initial clone with http, if messed up before and your getting [[#Host Key Validation Failed]] see below.
 The Private Key that is referenced must be the same one on all computers since that is the one linked to the public key added in github.
 should look something like this (on windows only)
 ![[Pasted image 20221125014758.png]]
