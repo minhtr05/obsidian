@@ -25,7 +25,7 @@ Open the Github Desktop Folder (likely ~/Documents/Github/RepositoryName) in Obs
 Download Obisidan-git plugin
 Profit
 
-(oh also copy this )
+(oh also copy this .gitignore template otherwise you get conflcits with the workplace file trying to sync itself every two seconds cus it changes every two seconds)
 
 
 #### Cant ssh-add
