@@ -18,8 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d9a18baab9de822",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d60d87b1efa3770",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b0c68eb888ab998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSH Auth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -86,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Welding.md",
+                "file": "SSH Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Welding.md"
+                "file": "SSH Auth.md"
               }
             }
           },
@@ -119,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Welding.md",
+                "file": "SSH Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +190,10 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "be239c9cce5ffe72",
+  "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Engineering/Welding.md",
     "CRL/Carl Strehlow.md",
     "CRL/Lancelot Threlkeld.md",
     "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
@@ -170,8 +201,6 @@
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
-    "Economics/Year 11/Equilbrium.md",
-    "English/Concepts/Context.md",
-    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md"
+    "Economics/Year 11/Equilbrium.md"
   ]
 }
