@@ -1,7 +1,7 @@
 {
   "commitMessage": "Manual {{hostname}}: {{date}}",
   "autoCommitMessage": "Auto {{hostname}}: {{date}}",
-  "commitDateFormat": "MM-DD HH:mm:ss",
+  "commitDateFormat": "MM-DD HH:mm",
   "autoSaveInterval": 1,
   "autoPushInterval": 1,
   "autoPullInterval": 5,
