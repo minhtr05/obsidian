@@ -20,8 +20,10 @@ Open id_name.pub (**Public**) in notepad, copy it stuff, paste in github --> set
 Create New Repo in github Desktop / HTTPS Clone existing one
 Run: ssh-add ~/.ssh/id_name (Private)
 Github Desktop --> Top Bar --> Repository --> Repository Settings --> Remote --> Copy Paste in SSH URL instead of HTTP one from github.com
-
+Open the Github Desktop Folder (likely ~/Documents/Github/RepositoryName) in Obsidian
 ```
+Download Obisidan-git -p
+Profit
 
 
 #### Cant ssh-add
