@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,12 +199,12 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "34c8ff3810f98d5b",
+  "active": "b884306a92b1dfe9",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "Economics/Year 12 - Unit 3/ISPs/ISP1 - Global interdependence.pdf",
     "Economics/Year 12 - Unit 3/ISPs/ISP 1.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Applied Information Technology/Year 12 - Unit 3/Bus.md",
     "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
