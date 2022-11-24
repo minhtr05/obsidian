@@ -40,3 +40,4 @@ Device speed is measured in MHz, e.g. 100 MHz, Where-as throughput is measured i
 bruh bru
 ready commit
 
+
