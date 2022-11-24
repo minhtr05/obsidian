@@ -1,3 +1,6 @@
+Clone using regular http on github desktop, open resultant folder in obsidian and manage obsid
+
+
 https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714
 Just use the comment version for reference.
 
