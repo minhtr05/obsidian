@@ -30,15 +30,23 @@
             }
           },
           {
-            "id": "b884306a92b1dfe9",
+            "id": "34c8ff3810f98d5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Big Mac Index.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b884306a92b1dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Big Mac Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Big Mac Index.md"
               }
             }
           },
@@ -141,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Big Mac Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,12 +191,12 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "b884306a92b1dfe9",
+  "active": "34c8ff3810f98d5b",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Applied Information Technology/Year 12 - Unit 3/Bus.md",
     "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "English/Syllabus - English.md",
     "English/Representation.md",
     "English/Practice Writing.md",
