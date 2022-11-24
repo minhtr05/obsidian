@@ -9,9 +9,13 @@ running `ssh-add ~/.ssh/id_<name>`
 
 to actually make this vault use the SSH Auth go into github desktop, repository from top bar, properties, and change the URL to the SSH Url, then all is good
 
-Tl;dr
-``ssh-keygen -t name -C "your_email@example.com``
-`
+### Tl;dr
+```
+
+```
+Generate Public / Private Key Pair
+``ssh-keygen -t name -C "your_email@example.com`
+stored in ~/.ssh/ which = C:/Users/%USERNAME%/.ssh/
 
 
 #### Cant ssh-add
