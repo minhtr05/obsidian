@@ -18,7 +18,7 @@ should look something like this (on windows only)
 ![[Pasted image 20221125014758.png]]
 Obviously replace "github_key" with the private key FILE that was generated earleir.
  
-This is only necessary if there is no access to ssh-agent, this can be manually if administrator privalledges are allowed
+This is only necessary if there is no access to ssh-agent **AND** no admin perms, `ssh-agent ` can be manually enabled if administrator privalledges are allowed (windows here)
 ```powershell
 # By default the ssh-agent service is disabled.
 Get-Service -Name ssh-agent | Set-Service -StartupType Automatic
