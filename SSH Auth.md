@@ -10,9 +10,9 @@ running `ssh-add ~/.ssh/id_<name>`
 to actually make this vault use the SSH Auth go into github desktop, repository from top bar, properties, and change the URL to the SSH Url, then all is good
 
 ### Tl;dr
-```
 Generate Public / Private Key Pair
-ssh-keygen -t name -C "your_email@example.com
+```
+ssh-keygen -t name -C "your_email@example.com"
 stored in ~/.ssh/ which = C:/Users/%USERNAME%/.ssh/
 ```
 Open id_name.pub (**Public**) in notepad, copy it stuff, paste in github --> settings --> keys --> ssh keys
@@ -22,7 +22,7 @@ Run: ssh-add ~/.ssh/id_name (Private)
 Github Desktop --> Top Bar --> Repository --> Repository Settings --> Remote --> Copy Paste in SSH URL instead of HTTP one from github.com
 Open the Github Desktop Folder (likely ~/Documents/Github/RepositoryName) in Obsidian
 ```
-Download Obisidan-git -p
+Download Obisidan-git plugin
 Profit
 
 
