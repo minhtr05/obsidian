@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Syllabus - English.md",
+                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Syllabus - English.md",
+                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Syllabus - English.md"
+                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Syllabus - English.md",
+                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,15 +174,15 @@
   },
   "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
+    "Applied Information Technology/Year 12 - Unit 3/Mobile Devices, Usability and Trends.md",
+    "Applied Information Technology/Syllabus - AIT Unit 3.md",
+    "CRL/Lancelot Threlkeld.md",
+    "English/Ideas.md",
     "English/Syllabus - English.md",
     "Engineering/Welding.md",
     "SSH Auth.md",
     "conflict-files-obsidian-git.md",
-    "CRL/Carl Strehlow.md",
-    "CRL/Lancelot Threlkeld.md",
-    "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
-    "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
-    "Economics/Year 12 - Unit 3/International Competiveness.md"
+    "CRL/Carl Strehlow.md"
   ]
 }
