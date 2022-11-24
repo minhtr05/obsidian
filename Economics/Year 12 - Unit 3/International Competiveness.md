@@ -29,7 +29,7 @@ $$GDP \div \text{ Hours Worked} = \text{Productivity}$$
 The productivity of **domestic firms** relative to the *competeing* **Foreign Firms**, determines success in the **Global Market**.
 > More Productivity = More Competitive
 
-
+thfdsghjkhgjkshjkghskghfjkghsjkfdghjkfg
 #### [[Exchange Rate]]
 Changes in the exchange rate change the price of **exports** & **imports**, currencies are weighted against multiple other major  currencies such as the **US Dollar** in the [[Trade-Weighted Index|Trade Weighted Index (TW)]], this includes **many currencies**, if the Real TWI falls then this implies an improvement in competitiveness, since the price of Australian Exports to voerseas buyers will fall.
 
