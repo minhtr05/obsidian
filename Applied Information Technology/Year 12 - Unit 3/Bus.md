@@ -1,6 +1,5 @@
 Computer busses are like the "public transportation" for data, transferring it from one position to another.
 
-key: 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
 
 ##### Bus Width
 A bus operates at a strict schedule, picking up and dropping off data at regular intervals measured in hertz. e.g. 1 Hertz is one data transfer per second, 2 MHz or Megahertz is 2 million data transfers per second this is referred to as the bus width.
