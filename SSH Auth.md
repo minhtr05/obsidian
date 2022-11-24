@@ -27,6 +27,22 @@ Profit
 
 (oh also copy this .gitignore template otherwise you get conflcits with the workplace file trying to sync itself every two seconds cus it changes every two seconds)
 
+```gitignore
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+
+#.obsidian/
+
+# OR only to exclude workspace cache
+
+.obsidian/workspace.json
+
+# Add below lines to exclude OS settings and caches
+
+.trash/
+
+.DS_Store
+```
+
 
 #### Cant ssh-add
 [Careful only listen to the comment main post is aids](https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714)
