@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f5e9a933c45f8ee",
+            "id": "22a4a83980dca0f6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6a3d7b6e974a4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Applied Information Technology/Syllabus - AIT Unit 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Applied Information Technology/Syllabus - AIT Unit 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+                "file": "Applied Information Technology/Syllabus - AIT Unit 3.md"
               }
             }
           },
@@ -119,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Applied Information Technology/Syllabus - AIT Unit 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,8 +171,10 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "8f5e9a933c45f8ee",
+  "active": "d6a3d7b6e974a4c9",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
     "English/Concepts/Textual Features/Language Features/Language Features.md",
     "English/Syllabus - English.md",
     "English/Concepts/Narrative Point Of View/Third-Person Limited Omniscient.md",
@@ -171,8 +182,6 @@
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "Economics/Year 12 - Unit 3/ISPs/ISP1 - Global interdependence.pdf",
-    "Economics/Year 12 - Unit 3/ISPs/ISP 1.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Applied Information Technology/Year 12 - Unit 3/Bus.md"
+    "Economics/Year 12 - Unit 3/ISPs/ISP 1.md"
   ]
 }
