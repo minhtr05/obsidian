@@ -12,7 +12,7 @@ The address bus refers to how many bits of information can be addressed in memor
 
 ## Types of computer buses
 
-There are two properties a bus must have,
+There are twfo properties a bus must have,
 
 - **Internal** vs. **External** bus
 
