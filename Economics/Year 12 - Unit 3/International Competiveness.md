@@ -1,4 +1,4 @@
-
+f
 #### Definition
 The degree to which a country can produce goods and services which meet the [[International Competiveness#Test Of International Markets|Test Of International Markets]], while simultaneously maintaining and expanding the real incomes of its people over the long term.
 
