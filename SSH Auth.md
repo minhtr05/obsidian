@@ -25,6 +25,6 @@ Essentially comes down to running this command:
 ```bash
 ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
 ```
-Even though it's formatted like Linux/Mac it works on windows through the GIT Bash terminal, the ~ just gets translated to windows home folder. Standard Bash Syntax just piping ( | ) in the results from scann
+Even though it's formatted like Linux/Mac it works on windows through the GIT Bash terminal, the ~ just gets translated to windows home folder. Standard Bash Syntax just running an ssh key scan for github, then piping ( | ) that result into the known_hosts file so that the new key is the known_host instead of the old one so that ssh no longer thinks the key is invalid and your getting man in the middle'd
 
 if not using Git Bash just look for the known_hosts and wipe its ass
