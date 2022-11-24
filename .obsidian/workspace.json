@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH Auth.md",
+                "file": "CRL/Carl Strehlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH Auth.md"
+                "file": "CRL/Carl Strehlow.md"
               }
             }
           },
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH Auth.md",
+                "file": "CRL/Carl Strehlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +173,9 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "a20a86ec7af14d99",
+  "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "SSH Auth.md",
     "CRL/Carl Strehlow.md",
     "CRL/CarlStrehlowpdf.pdf",
     "Engineering/Welding.md",
@@ -184,7 +184,6 @@
     "English/EnglishY12Syllabus.pdf",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "CRL/Lancelot Threlkeld.md",
-    "CRL/LancelotThrelkeldpdf.pdf",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+    "CRL/LancelotThrelkeldpdf.pdf"
   ]
 }
