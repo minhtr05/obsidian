@@ -1,4 +1,6 @@
-Clone using regular http on github desktop, open resultant folder in obsidian and manage obsid
+Clone using regular http on github desktop, open resultant folder in obsidian and manage *obsidian git* plugin settings, e.g. enable auto-push/commit for seamless syncing.
+
+To enable SSH-Auth use `ssh-keygen `
 
 
 https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714
