@@ -4,7 +4,7 @@ The degree to which a country can produce goods and services which meet the [[In
 
 #### My Definition
 The degree to which a country can produce goods and services while simultaneously remaining competitive with the prices of other countries, and maintaing or even increasing the living standards of its people in the long-term.
-
+ddddd
 
 ## Key Determinents of International Competitiveness
 
