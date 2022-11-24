@@ -36,5 +36,7 @@ There are twfo properties a bus must have,
 ### Bus Speed
 Device speed is measured in MHz, e.g. 100 MHz, Where-as throughput is measured in bits per second or megabytes per second.
 
-#### What a pain in the ass
+#### What a pain in the ass  is this
+bruh bru
+ready commit
 
