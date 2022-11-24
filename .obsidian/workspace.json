@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d79e9af0848fc66a",
+            "id": "8f5e9a933c45f8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,49 +18,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4db200637f287b33",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
-              }
-            }
-          },
-          {
-            "id": "5ddd692b68f13ff4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/ISPs/ISP1 - Global interdependence.pdf"
-              }
-            }
-          },
-          {
-            "id": "34c8ff3810f98d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b884306a92b1dfe9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -110,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210,
-    "collapsed": true
+    "width": 210
   },
   "right": {
     "id": "923a6426b9b78c3d",
@@ -127,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+              }
             }
           },
           {
@@ -157,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,17 +162,17 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "b884306a92b1dfe9",
+  "active": "8f5e9a933c45f8ee",
   "lastOpenFiles": [
+    "English/Concepts/Textual Features/Language Features/Language Features.md",
+    "English/Syllabus - English.md",
+    "English/Concepts/Narrative Point Of View/Third-Person Limited Omniscient.md",
+    "English/Concepts/Textual Features/Stylistic Features/Stylistic Features.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "Economics/Year 12 - Unit 3/ISPs/ISP1 - Global interdependence.pdf",
     "Economics/Year 12 - Unit 3/ISPs/ISP 1.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Applied Information Technology/Year 12 - Unit 3/Bus.md",
-    "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
-    "English/Syllabus - English.md",
-    "English/Representation.md",
-    "English/Practice Writing.md"
+    "Applied Information Technology/Year 12 - Unit 3/Bus.md"
   ]
 }
