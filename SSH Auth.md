@@ -27,7 +27,7 @@ Profit
 
 (oh also copy this .gitignore template otherwise you get conflcits with the workplace file trying to sync itself every two seconds cus it changes every two seconds)
 
-```gitignore
+```shell
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 
 #.obsidian/
