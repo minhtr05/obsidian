@@ -3,7 +3,7 @@
 
 ## Week 1-2
 
-- [ ] [[Globalisation#Linkages|Linkages]] between [[Econonomy|Economies]] (including [[Trade]], [[Foreign Investment]], [[Tourism]] 
+- [x] [[Globalisation#Linkages|Linkages]] between [[Econonomy|Economies]] (including [[Trade]], [[Foreign Investment]], [[Tourism]] 
 - [ ] The **composition** of [[Trade#Global Trade|Global Trade]]
 - [ ] [[Global Trade]] by major region
 - [ ] Changes in the pattern of [[Global Trade]] over time

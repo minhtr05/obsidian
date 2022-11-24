@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRL/Carl Strehlow.md",
+                "file": "Engineering/Welding.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRL/Carl Strehlow.md",
+                "file": "Engineering/Welding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRL/Carl Strehlow.md"
+                "file": "Engineering/Welding.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRL/Carl Strehlow.md",
+                "file": "Engineering/Welding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "a20a86ec7af14d99",
+  "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Engineering/MIG.md",
+    "Engineering/Job Safety Analysis.md",
+    "English/EnglishY12Syllabus.pdf",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "CRL/Lancelot Threlkeld.md",
-    "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
-    "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+    "CRL/LancelotThrelkeldpdf.pdf",
+    "CRL/CarlStrehlowpdf.pdf",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Carl Strehlow.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Applied Information Technology/Syllabus - AIT Unit 3.md",
-    "Economics/Year 11/Equilbrium.md",
-    "English/Concepts/Context.md",
-    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md"
+    "Economics/Year 12 - Unit 3/International Competiveness.md"
   ]
 }

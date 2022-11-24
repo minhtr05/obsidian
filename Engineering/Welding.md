@@ -12,7 +12,7 @@ Gas Metal Arc, or Metal Inert Gas, (MIG) Welding refers to a type of welding whe
 Electric Arc welding works off the principle that electricity (either AC or DC) travelling through the air from one conductor to another, they create a very intense and concentrated heat. this heat can get up to 3500°C to 400°C, the
 
 ### [[Plasma Cutting]]
-
+Plasma cutting involves firing hot beams of plasma to cut metal, it can also be used to welb it together in a process called Plasma Welding
 
 
 >[!cite]- References
