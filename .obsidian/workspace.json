@@ -20,22 +20,6 @@
             }
           },
           {
-            "id": "5d9a18baab9de822",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d60d87b1efa3770",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "0b0c68eb888ab998",
             "type": "leaf",
             "state": {
@@ -48,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +174,7 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "0b0c68eb888ab998",
+  "active": "155dd3cc16c96bfd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Engineering/Welding.md",
