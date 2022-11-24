@@ -25,6 +25,8 @@ Open the Github Desktop Folder (likely ~/Documents/Github/RepositoryName) in Obs
 Download Obisidan-git plugin
 Profit
 
+(oh also copy this )
+
 
 #### Cant ssh-add
 [Careful only listen to the comment main post is aids](https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714)
