@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1173d2d5727ce6",
+        "id": "7d6ebca70384d2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "372566a0375cb060",
+            "id": "be239c9cce5ffe72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
-                "mode": "source",
-                "source": false
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
               }
             }
           },
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +159,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "372566a0375cb060",
+  "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "CRL/Lancelot Threlkeld.md",
+    "CRL/Carl Strehlow.md",
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
     "Economics/Year 11/Equilbrium.md",
     "English/Concepts/Context.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md",
+    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
+    "English/Concepts/Textual Features/Language Features/Language Features.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
-    "Economics/Year 12 - Unit 3/ISPs/ISP 1.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Aggregate Expenditure.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Cash Rate.md",
-    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md"
+    "English/Syllabus - English.md"
   ]
 }
