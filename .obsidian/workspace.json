@@ -11,9 +11,11 @@
             "id": "be239c9cce5ffe72",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
+                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md"
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
+                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +163,7 @@
   },
   "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Lancelot Threlkeld.md",
     "CRL/Carl Strehlow.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
@@ -169,7 +172,6 @@
     "English/Concepts/Context.md",
     "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
     "English/Concepts/Textual Features/Language Features/Language Features.md",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "English/Syllabus - English.md"
   ]
 }
