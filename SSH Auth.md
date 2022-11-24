@@ -1,6 +1,6 @@
 Clone using regular http on github desktop, open resultant folder in obsidian and manage *obsidian git* plugin settings, e.g. enable auto-push/commit for seamless syncing.
 
-To enable SSH-Auth use `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` with github private email to generate public, private key pair which will be stored in ~/.ssh/ take the public key from this (one ending in .pub) open it with text editor, copy its contents and add it into github keys section in settings. the private key that was created as well shouldn't be uploaded anywere, send that to all computers that need to modify/access the obsidian repo/vault
+To enable SSH-Auth use `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` with github private email to generate public, private key pair which will be stored in ~/.ssh/ take the public key from this (one ending in .pub) open it with text editor, copy its contents and add it into github keys section in settings. the private key that was created as well shouldn't be uploaded anywere, send that to all computers that need to modify/access the obsidian repo/vault, usually good idea to also store it in ~/.ssh/ but not necessary, to actually make this vault use the SSH Auth go into github desktop, repository from top bar, properties, and change the URL to the one 
 
 
 https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714
