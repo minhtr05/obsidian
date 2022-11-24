@@ -1,6 +1,7 @@
 Clone using regular http on github desktop, open resultant folder in obsidian and manage *obsidian git* plugin settings, e.g. enable auto-push/commit for seamless syncing.
 
-To enable SSH-Auth use `ssh-keygen -t <name> -C "your_email@example.com""` with github private email to generate public, private key pair which will be stored in ~/.ssh/ 
+To enable create Public Private Key Pair for ssh-auth use `ssh-keygen -t <name> -C "your_email@example.com""` with github private email subbed in.
+Resultant keys in ~/.ssh/
 
 take the public key from this (one ending in .pub) open it with text editor, copy its contents and paste it into github keys section in github settings. the private key that was created shouldn't be uploaded anywere, send that to all computers that need to modify/access the obsidian repo/vault, usually good idea to also store it in ~/.ssh/ on each computer but not necessary, since it is just added to `ssh-agent` by: 
 
@@ -28,7 +29,7 @@ Start-Service ssh-agent
 ```
 But if no admin privs go for the other method with Git Bash installed and putting the sshCommand in .git/config.
 
-on linux u can literally just do `ssh-add ~/.ssh/id_whateverkey` which is all you do on windows too if you can enable the ssh-agent normally without git bash, allegedly might have to sometimes do `eval "$(ssh-agent -s)"` to start it on startup but hearsay
+on linux u can literally just do `ssh-add ~/.ssh/id_<private_key>` which is all you do on windows too if you can enable the ssh-agent normally without git bash, allegedly might have to sometimes do `eval "$(ssh-agent -s)"` to start it on startup but hearsay
 
 
 ##### Host Key Validation Failed
