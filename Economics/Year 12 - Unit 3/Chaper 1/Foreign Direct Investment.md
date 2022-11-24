@@ -1,0 +1,1 @@
+Foreign Direct Investment (FDI) occurs when a firm in one economy acquires at least 10% ownership of a foreign firm.

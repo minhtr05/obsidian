@@ -1,0 +1,2 @@
+## Summary 
+![[Welding#MIG]]

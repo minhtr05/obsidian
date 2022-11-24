@@ -1,0 +1,1 @@
+Creators can employ a number of features in the construction of texts for different purposes, audiences and contexts. There are four main types of textual features within the ATAR English syllabus: [[Generic Features]], [[Language Features]], [[Structural Features]], and [[Stylistic Features]]

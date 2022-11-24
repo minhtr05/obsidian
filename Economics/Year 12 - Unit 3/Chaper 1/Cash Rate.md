@@ -1,0 +1,3 @@
+The Cash Rate is the Percentage interest that banks gave to pay to the **Reserve Bank of Australia** (**RBA**), regular people can not themselves borrow from the *RBA*, and Banks are for-profit businesses, thus they pass-on this increased cost to the cosumers adding a couple percentage points ontop of the **RBA**'s base rates increasing the [[Interest Rate]] for the consumer.
+
+The cash rate is set by the **Reserve Bank Of Australia**, on the first tuesday of each month.

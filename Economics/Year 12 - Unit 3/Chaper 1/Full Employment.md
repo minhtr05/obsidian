@@ -1,0 +1,1 @@
+When only around 4-4.5% of the labour force is unemployed, an [[Unemployment]] Rate of 4-4.5%

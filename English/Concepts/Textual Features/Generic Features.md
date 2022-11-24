@@ -1,0 +1,3 @@
+How Texts are divided into their categories, [[Genre]], is divided into the **form** and **structure** of a text, or its **subject matter**. Genres of form and structure include, Novels, Feature Films, Websites, each [[Genre]] has particular features common to it. A short story is relatively brief, with few characters, while a sci-fi text will be in the future and probably have some cool tech.
+
+The [[Audience]]'s expectations induced by the genre can be reinforced, challenged, or subverted by a text's use of [[Generic Features]].

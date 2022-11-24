@@ -1,0 +1,1 @@
+An Increase in price = an increase in quantity supplied

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 9159498
+      }
+    },
+    {
+      "query": "path:Economics",
+      "color": {
+        "a": 1,
+        "rgb": 753731
+      }
+    },
+    {
+      "query": "path:Maths",
+      "color": {
+        "a": 1,
+        "rgb": 2201331
+      }
+    },
+    {
+      "query": "path:\"Integrated Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 10624530
+      }
+    },
+    {
+      "query": "path:Engineering",
+      "color": {
+        "a": 1,
+        "rgb": 8552568
+      }
+    },
+    {
+      "query": "path: \"Applied Information Technology\"",
+      "color": {
+        "a": 1,
+        "rgb": 16771589
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 2.29479166666667,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.416666666666667,
+  "repelStrength": 17.5,
+  "linkStrength": 0.921875,
+  "linkDistance": 118,
+  "scale": 0.08013963180366608,
+  "close": false
+}

@@ -1,0 +1,5 @@
+How does Text 1 create a [[Representation]] of family.
+
+Text 1 depicts a phone call between a son and his mother, the mother is considering the sale of their family farm, while the sons father opposes the decision, the son himself is tired of hearing their bickering. This triangle of opposition forms a representation of family in the text as one of resentment at the imposed roles that they each uphold. Generic Features like First-Person Narrative, and Characterisation construct the characters of these family members. The relationshi between ths resentful family is shown trough the use of Spoken Features like Rhythm, Stress, and Tone.
+
+The story takes place from the first person of the son, on a phone call to his mum the mum is characterisd through her voice constructed through the use of Tone, "I'm selling," is told implying that this is a big deal due to the short length of the speech. This tone exhibits a feeling of erase everythin after this point the reader is positioned to respond to the mohers tone as coflictionary, that this is a decision that he should have been involved in yet, he is cast away to the wayside in 

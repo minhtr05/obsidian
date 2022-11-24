@@ -1,0 +1,13 @@
+How Camera Movement and Focus can be used to influence the viewers perception of the scene. e.g. Handheld makes the viewer feel more like their are in the scene. Or 
+
+### Camera Movement and Focus
+
+| Feature  | Explanation                                                                                                                              | Meaning                                                                                                            |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Dolly    | The camera is mounted on a moving platform (dolly) and smoothly moves closer to (dolly in) or further away to (dolly out) from a subject | Gives the impression that the viewer is moving to/from the subject; creates less artificial effect than zooming.   |
+| Handheld | The camera is moved as if held by a person                                                                                               | Used to mimic the human movement or to create intimacy between the viewer and subject as if they are in the scene. |
+| Pan      | The camera rotates horizonatally from a fixed position.                                                                                  | Used to follow a moving charcter or take in a large scene.                                                         |
+| Pedestal | The camera moves vertically up or down without changing angle of the shot                                                                | USed to create a sense that the viewer is moving along with the subject                                            |
+| Tilt     | The camera moves vertically up or down from a fixed position                                                                             | Gives a sense of height and positions the viewer relative to the subject.                                          |
+| Truck    | The camera moves horizontally, typically maintaining focus on a subject, without changing the angle of the shot.                         | Used to create a sense that the viewer is moving along with the subject.                                           |
+| Zoom     | Changes the focal length of the lens, giving the impression of moving closer or further away from the subject.                           | Used to highlight specific details, or manipulate intimacy of the relationship between viewer and subject.                                                                                                                   |

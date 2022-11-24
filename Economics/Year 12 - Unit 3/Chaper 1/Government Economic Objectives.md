@@ -1,0 +1,5 @@
+- [[Full Employment]]
+- Maintin sustained [[Economic Growth]]
+- Ensure [[Price Stability]]
+- Greater Income Equality ([[Income Equality#Greater Income Equality]])
+- Efficient Allocation of Resources

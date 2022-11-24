@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1d526d8f2f7eac6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fe96134f161a069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d432cdec9f1c83b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7da8433540e31473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 11/Unemployment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "529fe079dadcda68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c72a3556ecf4dac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Investment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d50228bc9dd0d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f37bf8fd778b72e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20a86ec7af14d99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ec7e2c39aa8b384",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Fiscal Policy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "776491fd5da7e59b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "923a6426b9b78c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6d20f74a34863d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec90f1f0aac4b12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bd9f608932ba5513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0fa1d0ee75709b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27d841becdaf8d1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+              }
+            }
+          },
+          {
+            "id": "6687d8ce3ecb81ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "d432cdec9f1c83b7",
+  "lastOpenFiles": [
+    "Economics/Year 11/Unemployment.md",
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Trade.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/PQE.md",
+    "Economics/Year 12 - Unit 3/Syllabus - Econs Unit 3.md",
+    "Economics/Year 11/Lorenz Curve.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Cash Rate.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md"
+  ]
+}

@@ -1,0 +1,8 @@
+- Introduction
+- Body Designs (2D OR SKETCHES)
+- Production steps (photos), Images from instructions
+- Material - Aluminimum / 
+- Differential / Gear Ratios
+- Servo / Control systems (RCController) Motor - 2 Chain Channels - left/right - FWD/REV
+- Testing  + Problems
+- Conclusions on your RC CAR + Final Photo of Completed car

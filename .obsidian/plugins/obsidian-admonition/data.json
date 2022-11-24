@@ -1,0 +1,38 @@
+{
+  "userAdmonitions": {
+    "exq": {
+      "type": "exq",
+      "color": "112, 167, 255",
+      "icon": {
+        "type": "obsidian",
+        "name": "question-mark-glyph"
+      },
+      "command": true,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.5",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.60d201"
+}

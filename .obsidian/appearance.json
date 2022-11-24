@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "custom-admonitions.60d201"
+  ]
+}

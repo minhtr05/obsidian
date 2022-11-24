@@ -1,0 +1,1 @@
+Texts who's primary purpose is to explain and interpret personalities, events, [[Ideas]], [[Representation]], or concepts.
