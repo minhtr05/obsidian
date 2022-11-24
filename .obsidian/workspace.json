@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe96134f161a069",
+        "id": "7d6ebca70384d2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "22a4a83980dca0f6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
-              }
-            }
-          },
-          {
-            "id": "985b7a5604540409",
+            "id": "be239c9cce5ffe72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Concepts/Textual Features/Language Features/Language Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50fd93830e522acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c544b0b4693485e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Concepts/Context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d95bafe53bb0f102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 11/Equilbrium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6a3d7b6e974a4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Applied Information Technology/Syllabus - AIT Unit 3.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -145,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md"
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
               }
             }
           },
@@ -178,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,15 +162,15 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "50fd93830e522acd",
+  "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
-    "English/Syllabus - English.md",
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
+    "Economics/Year 11/Equilbrium.md",
+    "English/Concepts/Context.md",
     "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
     "English/Concepts/Textual Features/Language Features/Language Features.md",
-    "English/Concepts/Context.md",
-    "Economics/Year 11/Equilbrium.md",
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
+    "English/Syllabus - English.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "English/Concepts/Narrative Point Of View/Third-Person Limited Omniscient.md"

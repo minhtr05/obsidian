@@ -28,6 +28,21 @@ $$GDP \div \text{ Hours Worked} = \text{Productivity}$$
 
 The productivity of **domestic firms** relative to the *competeing* **Foreign Firms**, determines success in the **Global Market**.
 > More Productivity = More Competitive
+#### Real Unit Labour Cost
+Real Unit Labour Cost measures reflects changes in a country's wages relative to its [[#Productivity]], it will fall if productivity rises, or if the cost of wages falls, since now the **Labour Cost** (in ***Real Unit Labour Cost***) is smaller
+
+>[!exq]- Activity - 
+![[UnitLaborCost.png]]
+i. [[Instructional Verbs - Econs#Identify|Identify]] the relationship between [[International Competiveness#Real Unit Labour Cost|Unit Labour costs]] and labour [[International Competiveness#Productivity|Labour Productivity]] between 2020 and 2022
+> >- Inverse relationship between ULC and Labour Productivity
+>
+ii. [[Instructional Verbs - Econs#Describe|Describe]] the overall trend in unit labour costs between 2020 and 2022.
+>> In 2020 Unit Labour costs underwent a drop to around -9%, before bouncing up again in 2021 all the way to +15%, then stabilising at a higher point then were it began at 2.5%, to in 2022 being slightly lower than 5%
+>
+>iii. [[Instructional Verbs - Econs#Discuss|Discuss]] the effect of this change in unit labour costs on Australia's International Competitiveness
+>> Near the beginning this sharp drop in Labour Costs would increase **International Competitiveness**, in reality however other countries would be experiencing similar phenononia in 2020, and the slowdown of the COVID-19 Pandemic would prevent this increased competitiveness from being of any help.
+>> The Increase of Unit Labour Costs to 15% in 2021 from the initital 2.5% in 2019, and -9% in 2020, would cause a decrease in International Competitiveness as Productivity would decrease, making australia Less Internationally Competitive in the re-emerging global market.
+>> And Finally the reduction to normal levels of **ULC** in 2022, from 15% to 4.8-ish Percent would increase International Competitiveness as Australia came back down to a more regular **ULC** value closer to the 2.5% in 2019.
 
 
 #### [[Exchange Rate]]
