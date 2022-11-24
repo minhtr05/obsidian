@@ -15,6 +15,8 @@ Start-Service ssh-agent
 ```
 But if no admin go for the other method with Git Bash and putting the sshCommand in .git/config
 
+on linux u can literally just do `ssh-add ~/.ssh/id_whateverkey` which is all you do on windows too if you can enable the ssh-agent normally without git bash
+
 
 (If host key validation error)
 https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
