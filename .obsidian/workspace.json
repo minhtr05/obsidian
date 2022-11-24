@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+                "file": "CRL/Carl Strehlow.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+                "file": "CRL/Carl Strehlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md"
+                "file": "CRL/Carl Strehlow.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+                "file": "CRL/Carl Strehlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "be239c9cce5ffe72",
+  "active": "a20a86ec7af14d99",
   "lastOpenFiles": [
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Lancelot Threlkeld.md",
+    "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
+    "Applied Information Technology/Year 12 - Unit 3/Freedom Of Information.md",
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Carl Strehlow.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
     "Economics/Year 11/Equilbrium.md",
     "English/Concepts/Context.md",
-    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md",
-    "English/Concepts/Textual Features/Language Features/Language Features.md",
-    "English/Syllabus - English.md"
+    "English/Concepts/Textual Features/Language Features/Imaginative Language Features.md"
   ]
 }
