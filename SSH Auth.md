@@ -4,11 +4,17 @@ The key that is referenced must be the same one on all computers since that is t
 should look something like this (on windows only)
 ![[Pasted image 20221125014758.png]]
 
-This is only necessary if there is no access to ssh-agent, this can be manually if admin
+This is only necessary if there is no access to ssh-agent, this can be manually if administrator privalledges are allowed
+```powershell
+# By default the ssh-agent service is disabled.
+Get-Service -Name ssh-agent | Set-Service -StartupType Automatic
+
+Start-Service ssh-agent
+```
+But if no admin go for the other method with Git Bash and putting the sshCommand in .git/config
 
 
-
-(done that here)
+(done that here
 https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
 
 Essentially comes down to running this command:
