@@ -1,7 +1,7 @@
 https://gist.github.com/mortenege/42b12a82f7d79877171af84c7d0a0714
 Just use the comment version for reference.
 
-add the `sshCommand = "ssh -i ~/.ssh/github_key"` to the .git/config file inside the [core] section, the .git file is in the local project repo itself, just do the initial clone with http, if messed up before and your getting Host Key Validation failed see below.
+add the `sshCommand = "ssh -i ~/.ssh/github_key"` to the .git/config file inside the [core] section, the .git file is in the local project repo itself, just do the initial clone with http, if messed up before and your getting Host Key Validation failed see 
 The Private Key that is referenced must be the same one on all computers since that is the one linked to the public key added in github.
 should look something like this (on windows only)
 ![[Pasted image 20221125014758.png]]
@@ -18,7 +18,7 @@ But if no admin privs go for the other method with Git Bash and putting the sshC
 on linux u can literally just do `ssh-add ~/.ssh/id_whateverkey` which is all you do on windows too if you can enable the ssh-agent normally without git bash
 
 
-(If host key validation error)
+##### Host Key Validation Error
 https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
 
 Essentially comes down to running this command:
