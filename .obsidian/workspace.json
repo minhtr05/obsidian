@@ -23,9 +23,11 @@
             "id": "9f92ebb803de44c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CRL/CarlStrehlowpdf.pdf"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Real Unit",
+                "query": "Parity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRL/CarlStrehlowpdf.pdf",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRL/CarlStrehlowpdf.pdf"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
               }
             }
           },
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRL/CarlStrehlowpdf.pdf",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +176,15 @@
   },
   "active": "9f92ebb803de44c5",
   "lastOpenFiles": [
-    "Maths/Unit 3/Coefficient Of Determination.md",
-    "Maths/Unit 3/Glossary.md",
-    "Maths/Unit 3/Linear Relationships.md",
-    "Maths/Unit 3/MathUnit3Chapter3.pdf",
-    "Maths/Unit 3/Relationship Variables.md",
-    "[Relationship Variables.md",
-    "Maths/Unit 3/Class Notes/Untitled.md",
-    "Maths/Unit 3/Correlation Coefficient.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md"
+    "Economics/Year 12 - Unit 3/Chaper 1/Full Employment.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Global Interdependance.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Cash Rate.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Aggregate Expenditure.md",
+    "CRL/CarlStrehlowpdf.pdf",
+    "Maths/Unit 3/Coefficient Of Determination.md",
+    "Maths/Unit 3/Glossary.md"
   ]
 }
