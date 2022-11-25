@@ -1,4 +1,4 @@
-SSH Auth oly good when not on the school network, if on s
+SSH Auth oly good when not on the school network, if on school network use https authetication which uses the personal token.
 
 
 
