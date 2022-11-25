@@ -4,7 +4,7 @@ SSH Auth oly good when not on the school network, if on school network use https
 
 Clone using regular http on github desktop, open resultant folder in obsidian and manage *obsidian git* plugin settings, e.g. enable auto-push/commit for seamless syncing.
 
-To enable create Public Private Key Pair for ssh-auth use `ssh-keygen -t name -C "your_email@example.com"` with github private email subbed in.
+Create Public Private Key Pair for ssh-auth use `ssh-keygen -t name -C "your_email@example.com"` with github private email subbed in.
 Resultant keys in ~/.ssh/ with the format id_name (private) and id_name.pub (Public)
 
 take the public key from this (one ending in .pub) open it with text editor, copy its contents and paste it into github keys section in github settings. the private key that was created shouldn't be uploaded anywere, send that to all computers that need to modify/access the obsidian repo/vault, usually good idea to also store it in ~/.ssh/ on each computer but not necessary, since it is just added to `ssh-agent` by: 
