@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3/Relationship Variables.md",
+                "file": "Maths/Unit 3/Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3/Relationship Variables.md",
+                "file": "Maths/Unit 3/Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3/Relationship Variables.md"
+                "file": "Maths/Unit 3/Glossary.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3/Relationship Variables.md",
+                "file": "Maths/Unit 3/Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "9f92ebb803de44c5",
   "lastOpenFiles": [
-    "[Relationship Variables.md",
+    "Maths/Unit 3/Linear Relationships.md",
+    "Maths/Unit 3/MathUnit3Chapter3.pdf",
     "Maths/Unit 3/Relationship Variables.md",
+    "[Relationship Variables.md",
     "Maths/Unit 3/Class Notes/Untitled.md",
     "Maths/Unit 3/Correlation Coefficient.md",
     "Maths/Unit 3/Coefficient Of Determination.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
-    "CRL/Lancelot Threlkeld.md",
-    "CRL/LancelotThrelkeldpdf.pdf"
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
   ]
 }
