@@ -11,10 +11,8 @@
             "id": "be239c9cce5ffe72",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/RegressionLineResiduas.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/RegressionLineResiduas.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Attachments/RegressionLineResiduas.png"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/RegressionLineResiduas.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +166,9 @@
   },
   "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Attachments/RegressionLineResiduas.png",
     "Attachments/Pasted image 20221125111019.png",
     "Attachments/Pasted image 20221125110915.png",
-    "Attachments/RegressionLineResiduas.png",
     "Attachments/Untitled 2.png",
     "Attachments/Untitled 1.png",
     "Attachments/Untitled.png",
