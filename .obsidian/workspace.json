@@ -11,11 +11,9 @@
             "id": "0b0c68eb888ab998",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
-                "mode": "source",
-                "source": false
+                "file": "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
+                "file": "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md"
+                "file": "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
+                "file": "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +154,7 @@
   },
   "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "English/Unit 3/Crime Fiction/Crime Fiction.md",
     "English/Composing.md",
     "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
@@ -164,7 +163,6 @@
     "Maths/Unit 3/Predictions & Outliers.md",
     "Maths/Unit 3/Regression Line.md",
     "Maths/Unit 3/Linear Relationships.md",
-    "Maths/Unit 3/MathUnit3Chapter3.pdf",
-    "Maths/Unit 3/Coefficient Of Determination.md"
+    "Maths/Unit 3/MathUnit3Chapter3.pdf"
   ]
 }
