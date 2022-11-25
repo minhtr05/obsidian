@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
+                "file": "Maths/Unit 3/Residuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
+                "file": "Maths/Unit 3/Residuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md"
+                "file": "Maths/Unit 3/Residuals.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
+                "file": "Maths/Unit 3/Residuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +166,15 @@
   },
   "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "Maths/Unit 3/Predictions & Outliers.md",
+    "Maths/Unit 3/Regression Line.md",
+    "Maths/Unit 3/Linear Relationships.md",
     "Maths/Unit 3/MathUnit3Chapter3.pdf",
     "Maths/Unit 3/Coefficient Of Determination.md",
     "Maths/Unit 3/Frequency Tables.md",
     "Maths/Unit 3/Correlation Coefficient.md",
     "Maths/Unit 3/Glossary.md",
     "Maths/Unit 3/Residuals.md",
-    "Maths/Unit 3/Relationship Variables.md",
-    "Maths/Unit 3/Regression Line.md",
-    "Maths/Unit 3/Predictions & Outliers.md",
-    "Maths/Unit 3/Linear Relationships.md"
+    "Maths/Unit 3/Relationship Variables.md"
   ]
 }
