@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Attachments/Untitled 1.png"
+                "file": "Attachments/RegressionLineResiduas.png"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Untitled 1.png",
+                "file": "Attachments/RegressionLineResiduas.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Untitled 1.png"
+                "file": "Attachments/RegressionLineResiduas.png"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Untitled 1.png",
+                "file": "Attachments/RegressionLineResiduas.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "a20a86ec7af14d99",
+  "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20221125111019.png",
+    "Attachments/Pasted image 20221125110915.png",
+    "Attachments/RegressionLineResiduas.png",
+    "Attachments/Untitled 2.png",
+    "Attachments/Untitled 1.png",
     "Attachments/Untitled.png",
     "Attachments/Pasted image 20221118110740.png",
     "Attachments/Pasted image 20221114111126.png",
     "Attachments/Pasted image 20221024214539.png",
-    "CRL/Lancelot Threlkeld.md",
-    "CRL/Carl Strehlow.md",
-    "SSH Auth.md",
-    "Productivity.md",
-    "CRL/LancelotThrelkeldpdf.pdf",
-    "Engineering/MIG.md"
+    "CRL/Lancelot Threlkeld.md"
   ]
 }
