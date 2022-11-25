@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Maths/Unit 3/Correlation Coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Maths/Unit 3/Correlation Coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md"
+                "file": "Maths/Unit 3/Correlation Coefficient.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Maths/Unit 3/Correlation Coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "9f92ebb803de44c5",
   "lastOpenFiles": [
+    "Maths/Unit 3/Coefficient Of Determination.md",
+    "Maths/Unit 3/Class Notes/Untitled.md",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Lancelot Threlkeld.md",
     "CRL/LancelotThrelkeldpdf.pdf",
     "CRL/CarlStrehlowpdf.pdf",
     "Productivity.md",
-    "SSH Auth.md",
-    "Applied Information Technology/Syllabus - AIT Unit 3.md",
-    "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
-    "English/Concepts/Textual Features/Structural Features.md"
+    "SSH Auth.md"
   ]
 }
