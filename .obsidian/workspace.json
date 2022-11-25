@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "English/Crime Fiction/ShortCrimefictionStructure.pdf"
+                "file": "English/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Crime Fiction/ShortCrimefictionStructure.pdf",
+                "file": "English/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Crime Fiction/ShortCrimefictionStructure.pdf"
+                "file": "English/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Crime Fiction/ShortCrimefictionStructure.pdf",
+                "file": "English/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +154,7 @@
   },
   "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "English/Crime Fiction/ShortCrimefictionStructure.pdf",
     "English/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "English/Syllabus - English.md",
     "Maths/Unit 3/Residuals.md",
@@ -162,7 +163,6 @@
     "Maths/Unit 3/Linear Relationships.md",
     "Maths/Unit 3/MathUnit3Chapter3.pdf",
     "Maths/Unit 3/Coefficient Of Determination.md",
-    "Maths/Unit 3/Frequency Tables.md",
-    "Maths/Unit 3/Correlation Coefficient.md"
+    "Maths/Unit 3/Frequency Tables.md"
   ]
 }
