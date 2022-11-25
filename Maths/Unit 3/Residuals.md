@@ -14,6 +14,7 @@ Copy Residual to list 3 to end up w/ the residual for each value in the list 3 n
 A Residual plot is made by plotting the value of the residual, e.g.
 <mark style="background: #ADCCFFA6;">Observed = 15,5</mark> <mark style="background: #D2B3FFA6;">Predicted = 15,4</mark>
 >$\text{Residual}=5-4 =1$
+T
 
 Plot 1 onto the y axis, keep it on the same x axis as it was.
 >Plotted Residual = 15,1
