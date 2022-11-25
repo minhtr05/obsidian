@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Real Unit",
+                "query": "crime fiction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "0b0c68eb888ab998",
+  "active": "0ec7e2c39aa8b384",
   "lastOpenFiles": [
     "Maths/Unit 3/Residuals.md",
     "Maths/Unit 3/Predictions & Outliers.md",
