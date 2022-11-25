@@ -23,11 +23,9 @@
             "id": "9f92ebb803de44c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Maths/Unit 3/Glossary.md",
-                "mode": "source",
-                "source": false
+                "file": "CRL/CarlStrehlowpdf.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3/Glossary.md",
+                "file": "CRL/CarlStrehlowpdf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3/Glossary.md"
+                "file": "CRL/CarlStrehlowpdf.pdf"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3/Glossary.md",
+                "file": "CRL/CarlStrehlowpdf.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +173,15 @@
   },
   "active": "9f92ebb803de44c5",
   "lastOpenFiles": [
+    "Maths/Unit 3/Coefficient Of Determination.md",
+    "Maths/Unit 3/Glossary.md",
     "Maths/Unit 3/Linear Relationships.md",
     "Maths/Unit 3/MathUnit3Chapter3.pdf",
     "Maths/Unit 3/Relationship Variables.md",
     "[Relationship Variables.md",
     "Maths/Unit 3/Class Notes/Untitled.md",
     "Maths/Unit 3/Correlation Coefficient.md",
-    "Maths/Unit 3/Coefficient Of Determination.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
-    "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+    "Economics/Year 12 - Unit 3/International Competiveness.md"
   ]
 }
