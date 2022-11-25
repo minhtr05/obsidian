@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2538d17f4938e50c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +178,10 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "9f92ebb803de44c5",
+  "active": "2538d17f4938e50c",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
+    "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Full Employment.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Global Interdependance.md",
@@ -183,8 +189,6 @@
     "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Cash Rate.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Aggregate Expenditure.md",
-    "CRL/CarlStrehlowpdf.pdf",
-    "Maths/Unit 3/Coefficient Of Determination.md",
-    "Maths/Unit 3/Glossary.md"
+    "CRL/CarlStrehlowpdf.pdf"
   ]
 }
