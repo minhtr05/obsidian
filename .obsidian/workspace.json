@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "0ec7e2c39aa8b384",
+  "active": "a20a86ec7af14d99",
   "lastOpenFiles": [
     "Maths/Unit 3/Residuals.md",
     "Maths/Unit 3/Predictions & Outliers.md",
