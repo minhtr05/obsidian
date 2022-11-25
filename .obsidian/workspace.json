@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3/Correlation Coefficient.md",
+                "file": "Maths/Unit 3/Class Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3/Correlation Coefficient.md",
+                "file": "Maths/Unit 3/Class Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3/Correlation Coefficient.md"
+                "file": "Maths/Unit 3/Class Notes/Untitled.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3/Correlation Coefficient.md",
+                "file": "Maths/Unit 3/Class Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   },
   "active": "9f92ebb803de44c5",
   "lastOpenFiles": [
+    "Maths/Unit 3/Relationship Variables.md",
+    "Maths/Unit 3/Correlation Coefficient.md",
     "Maths/Unit 3/Coefficient Of Determination.md",
     "Maths/Unit 3/Class Notes/Untitled.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
@@ -182,8 +184,6 @@
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "CRL/Lancelot Threlkeld.md",
     "CRL/LancelotThrelkeldpdf.pdf",
-    "CRL/CarlStrehlowpdf.pdf",
-    "Productivity.md",
-    "SSH Auth.md"
+    "CRL/CarlStrehlowpdf.pdf"
   ]
 }
