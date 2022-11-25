@@ -19,7 +19,7 @@ Generate Public / Private Key Pair
 ssh-keygen -t name -C "your_email@example.com"
 stored in ~/.ssh/ which = C:/Users/%USERNAME%/.ssh/
 ```
-Open id_name.pub (**Public**) in notepad, copy it stuff, paste in github --> settings --> keys --> ssh keys
+Open id_name.pub (**Public**) in notepad, copy it's stuff, paste it in: github --> settings --> keys --> ssh keys
 ```
 Create New Repo in github Desktop / HTTPS Clone existing one
 Run: ssh-add ~/.ssh/id_name (Private)
