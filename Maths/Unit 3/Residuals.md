@@ -17,3 +17,6 @@ Plot 1 onto the y axis, keep it on the same x axis as it was.
 
 >[!exq]- Finished Regression Plot
 ![[Untitled 2.png]]
+
+[!exq]- Finding Residuals w/ classpad
+![[Pasted image 20221125110915.png]]
