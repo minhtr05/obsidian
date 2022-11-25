@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH Auth.md",
+                "file": "Maths/Unit 3/Linear Relationships.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,6 +65,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c72a3556ecf4dac3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Unit 3/Linear Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Unit 3/Linear Relationships.md"
+              }
             }
           },
           {
@@ -116,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Unit 3/Linear Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,24 +145,18 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "c72a3556ecf4dac3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
-  "active": "c72a3556ecf4dac3",
+  "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "Maths/Syllabus - Math Unit 3.md",
     "SSH Auth.md",
     "CRL/Carl Strehlow.md",
     "Applied Information Technology/Year 12 - Unit 3/Bus.md",
@@ -159,7 +165,6 @@
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
     "CRL/Lancelot Threlkeld.md",
     "English/Ideas.md",
-    "English/Syllabus - English.md",
-    "Engineering/Welding.md"
+    "English/Syllabus - English.md"
   ]
 }
