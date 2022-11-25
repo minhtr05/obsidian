@@ -1,3 +1,7 @@
+SSH Auth oly good when not on the school network, if on s
+
+
+
 Clone using regular http on github desktop, open resultant folder in obsidian and manage *obsidian git* plugin settings, e.g. enable auto-push/commit for seamless syncing.
 
 To enable create Public Private Key Pair for ssh-auth use `ssh-keygen -t name -C "your_email@example.com"` with github private email subbed in.
