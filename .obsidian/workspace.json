@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
-                "mode": "source",
+                "file": "Maths/Unit 3/Relationship Variables.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
+                "file": "Maths/Unit 3/Relationship Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md"
+                "file": "Maths/Unit 3/Relationship Variables.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3/Linear Relationships.md",
+                "file": "Maths/Unit 3/Relationship Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,15 @@
   },
   "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "Maths/Unit 3/Regression Line.md",
+    "Maths/Unit 3/Predictions & Outliers.md",
+    "Maths/Unit 3/Linear Relationships.md",
     "Maths/Syllabus - Math Unit 3.md",
     "SSH Auth.md",
     "CRL/Carl Strehlow.md",
     "Applied Information Technology/Year 12 - Unit 3/Bus.md",
     "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
     "Applied Information Technology/Year 12 - Unit 3/Mobile Devices, Usability and Trends.md",
-    "Applied Information Technology/Syllabus - AIT Unit 3.md",
-    "CRL/Lancelot Threlkeld.md",
-    "English/Ideas.md",
-    "English/Syllabus - English.md"
+    "Applied Information Technology/Syllabus - AIT Unit 3.md"
   ]
 }
