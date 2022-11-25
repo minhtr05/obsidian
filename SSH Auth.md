@@ -88,5 +88,3 @@ if not using Git Bash just look for the known_hosts and wipe its ass]
 
 
 
-
-gfjsdghjfhg,fgfdjdfjhgfslslkhslg

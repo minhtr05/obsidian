@@ -86,7 +86,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SSH Auth.md"
-              }
+              "state": {}
             }
           },
           {
@@ -119,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,23 +141,15 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "155dd3cc16c96bfd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "0b0c68eb888ab998",
+  "active": "c72a3556ecf4dac3",
   "lastOpenFiles": [
     "SSH Auth.md",
     "CRL/Carl Strehlow.md",
