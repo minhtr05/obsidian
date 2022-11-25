@@ -11,8 +11,12 @@
             "id": "be239c9cce5ffe72",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md"
+              }
             }
           },
           {
@@ -123,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Applied Information Technology/Year 12 - Unit 3/Hardware Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +174,8 @@
   },
   "active": "be239c9cce5ffe72",
   "lastOpenFiles": [
+    "Applied Information Technology/Syllabus - AIT Unit 3.md",
+    "English/Concepts/Textual Features/Structural Features.md",
     "Attachments/RegressionLineResiduas.png",
     "Attachments/Pasted image 20221125111019.png",
     "Attachments/Pasted image 20221125110915.png",
@@ -173,8 +183,6 @@
     "Attachments/Untitled 1.png",
     "Attachments/Untitled.png",
     "Attachments/Pasted image 20221118110740.png",
-    "Attachments/Pasted image 20221114111126.png",
-    "Attachments/Pasted image 20221024214539.png",
-    "CRL/Lancelot Threlkeld.md"
+    "Attachments/Pasted image 20221114111126.png"
   ]
 }
