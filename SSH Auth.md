@@ -65,7 +65,7 @@ But if no admin privs go for the other method with Git Bash installed and puttin
 
 on linux u can literally just do `ssh-add ~/.ssh/id_<private_key>` which is all you do on windows too if you can enable the ssh-agent normally without git bash, allegedly might have to sometimes do `eval "$(ssh-agent -s)"` to start it on startup but hearsay
 
-testing testing push push
+testing testing push push git git git git
 
 ##### Host Key Validation Failed
 https://stackoverflow.com/questions/13363553/git-error-host-key-verification-failed-when-connecting-to-remote-repository
