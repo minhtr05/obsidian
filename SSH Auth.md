@@ -53,7 +53,7 @@ should look something like this
 (on windows this is the same though this looks like bash syntax, ~ translated to user folder don't try to use a C: path)
 ![[Pasted image 20221125014758.png]]
 Obviously replace "github_key" with the private key FILE that was generated earleir.
- 
+ dddddddddddd
 This is only necessary if there is no access to ssh-agent **AND** no admin perms, `ssh-agent ` can be manually enabled if administrator privalledges are allowed (powershell snippet 4 windows)
 ```powershell
 # By default the ssh-agent service is disabled.
