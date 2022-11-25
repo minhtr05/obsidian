@@ -28,4 +28,4 @@ Plot 1 onto the y axis, keep it on the same x axis as it was.
 >[!example]- Plotting Residuals w/ classpad
 
 #### Determining If Linear Model is appropriate
-A Pattern that is easily visible means that the linear model is not appropriate. If the 
+A Pattern that is easily visible means that the linear model is not appropriate. If the ![[mathregressionplots.png]]
