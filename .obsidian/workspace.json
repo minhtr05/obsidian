@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be239c9cce5ffe72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b0c68eb888ab998",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
+                "file": "SSH Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md"
+                "file": "SSH Auth.md"
               }
             }
           },
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applied Information Technology/Year 12 - Unit 3/Bus.md",
+                "file": "SSH Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +154,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
-  "active": "be239c9cce5ffe72",
+  "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
+    "Applied Information Technology/Year 12 - Unit 3/Bus.md",
     "Applied Information Technology/Year 12 - Unit 3/Development Trends.md",
     "Applied Information Technology/Year 12 - Unit 3/Mobile Devices, Usability and Trends.md",
     "Applied Information Technology/Syllabus - AIT Unit 3.md",
@@ -183,7 +172,6 @@
     "English/Syllabus - English.md",
     "Engineering/Welding.md",
     "SSH Auth.md",
-    "conflict-files-obsidian-git.md",
-    "CRL/Carl Strehlow.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
