@@ -11,10 +11,8 @@
             "id": "0b0c68eb888ab998",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,10 +148,10 @@
   },
   "active": "0b0c68eb888ab998",
   "lastOpenFiles": [
-    "English/Composing.md",
-    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "English/Unit 3/Crime Fiction/Crime Fiction.md",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
+    "English/Composing.md",
+    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "English/Syllabus - English.md",
     "Maths/Unit 3/Residuals.md",
     "Maths/Unit 3/Predictions & Outliers.md",
