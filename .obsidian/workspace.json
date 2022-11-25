@@ -38,9 +38,58 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "dba41957e73f2101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 3/Frequency Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a09191c992768b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 3/Class Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5c2b06543e2587c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 3/Relationship Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b398c830ea97bd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -180,15 +229,15 @@
   },
   "active": "2538d17f4938e50c",
   "lastOpenFiles": [
+    "Maths/Unit 3/Frequency Tables.md",
+    "Maths/Unit 3/Class Notes/Untitled.md",
+    "Maths/Unit 3/Relationship Variables.md",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Full Employment.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Global Interdependance.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Cash Rate.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Aggregate Expenditure.md",
-    "CRL/CarlStrehlowpdf.pdf"
+    "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md"
   ]
 }
