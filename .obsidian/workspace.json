@@ -74,6 +74,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/Protectionism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Protectionism.md"
+              }
             }
           },
           {
@@ -170,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/Protectionism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +217,7 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "2538d17f4938e50c",
+  "active": "9f6bbf35c5d14b90",
   "lastOpenFiles": [
     "Economics/Year 12 - Unit 3/Protectionism.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
