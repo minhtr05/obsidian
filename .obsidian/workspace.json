@@ -144,9 +144,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f40b7cdeb5792045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 12,
         "stacked": true
       }
     ],
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md"
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
               }
             }
           },
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,17 +301,17 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "5f90337ed7ceb546",
+  "active": "f40b7cdeb5792045",
   "lastOpenFiles": [
-    "Economics/Year 12 - Unit 3/Chaper 1/Gross Domestic Product.md",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Gross Domestic Product.md",
     "Economics/Year 11/Supply Demand Curve.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
     "Economics/Year 12 - Unit 3/Protectionism.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Tourism.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/International Competiveness.md"
   ]
 }
