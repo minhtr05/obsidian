@@ -6,7 +6,7 @@ $$PPP=\frac{\text{Price Big Mac (in country of comparison currency)}}{\text{Pric
 Checking if Currency is under/overvalued
 $$\text{\% over or under}=\frac{PPP-ER}{ER}*100$$
 
-Purchasing power parity can be seen by comparing two [[Products]]
+Purchasing power parity can be seen by comparing the price of two goods in different economies that have the same 
 
 
 >[!exq]+ Example - **Big Mac Index**
