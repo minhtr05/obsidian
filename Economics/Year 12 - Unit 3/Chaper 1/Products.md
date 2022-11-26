@@ -14,5 +14,6 @@ Usually Extracted from the ground with only 1 or 2 processes undergone, *NOT* us
 Has undergone a number of processesss, and *is useful* to any end user. E.g. Steel, Computer.=
 
 ## Extras
-#### Uniform Products
 
+#### Uniform Products
+A Product that has the same input costs regardless of its location
