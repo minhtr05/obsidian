@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 205.5
   },
   "right": {
     "id": "923a6426b9b78c3d",
@@ -264,7 +264,7 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "5f90337ed7ceb546",
+  "active": "a20a86ec7af14d99",
   "lastOpenFiles": [
     "Global Trade.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Trade Terminology.md",
