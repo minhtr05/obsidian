@@ -1,3 +1,3 @@
 >[!note] My Definition
-A **Protectionist** econonomy is one that favours the [[Products|products]] produced by it's own nation over those produced abroad
+Protectionism is a **policy** that of a nation is one that favours the [[Products|products]] produced by itself locally, over those produced abroad
 
