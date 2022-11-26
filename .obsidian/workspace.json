@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
+                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md"
+                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
+                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,8 +241,9 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "3f3c0ca15953c566",
+  "active": "5f90337ed7ceb546",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
@@ -250,7 +251,6 @@
     "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
     "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
     "Economics/Year 12 - Unit 3/Protectionism.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
     "Maths/Unit 3/Frequency Tables.md",
     "Maths/Unit 3/Class Notes/Untitled.md"
   ]

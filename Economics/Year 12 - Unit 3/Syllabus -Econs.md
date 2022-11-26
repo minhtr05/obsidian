@@ -5,7 +5,7 @@
 
 ### Global Interdependance
 - [ ] [[Globalisation#Linkages|Linkages]] between [[Econonomy|Economies]] (including [[Trade]], [[Foreign Investment]], [[Tourism]] 
-- [ ] The **composition** of [[Trade#Global Trade|Global Trade]]
+- [ ] The [[Global Trade|composition of Global Trade]]
 - [ ] [[Global Trade]] by major region
 - [ ] Changes in the pattern of [[Global Trade]] over time
 - [ ] The significance of the US and Chinese econmies to [[Global Trade]]
