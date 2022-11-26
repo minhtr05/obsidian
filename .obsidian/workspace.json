@@ -16,6 +16,16 @@
             }
           },
           {
+            "id": "35d89342009dd9fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+              }
+            }
+          },
+          {
             "id": "aadd14bc612f75dc",
             "type": "leaf",
             "state": {
@@ -52,6 +62,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf"
+              }
             }
           },
           {
@@ -148,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/EconsY12U3C1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,9 +202,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
-  "active": "a20a86ec7af14d99",
+  "active": "35d89342009dd9fb",
   "lastOpenFiles": [
     "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
