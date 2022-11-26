@@ -34,12 +34,12 @@ $$PPP=\frac{469}{329}=1.43$$
 >>
 >
 >>[!example] Iphones - ***1USD = 1.63AUD***
->Australian Iphone: $1629 *AUD*
-American Iphone: $1000 *USD*
+>Australian Iphone X: $1629 *AUD*
+American Iphone X: $1000 *USD*
 $$PPP=\frac{1629}{1000}=1.629$$
 **Interpreted** as: 1 USD = 1.63 AUD
 > 
-> This difference in **Implied Purchasing Parity** d
+> This difference in **Implied Purchasing Parity** shows us that apple may be taking advantage of the popularity of the Iphone in Australia and upcharging on the price.
 
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
