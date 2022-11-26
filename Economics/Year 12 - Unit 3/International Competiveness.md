@@ -35,7 +35,7 @@ The productivity of **domestic firms** relative to the *competeing* **Foreign Fi
 Real Unit Labour Cost measures reflects changes in a country's wages relative to its [[#Productivity]], it will fall if productivity rises, or if the cost of wages falls, since now the **Labour Cost** (in ***Real Unit Labour Cost***) is smaller
 
 >[!exq]- Activity - 
-![[UnitLaborCost.png]]
+[[UnitLaborCost.png]]
 i. [[Instructional Verbs - Econs#Identify|Identify]] the relationship between [[International Competiveness#Real Unit Labour Cost|Unit Labour costs]] and labour [[International Competiveness#Productivity|Labour Productivity]] between 2020 and 2022
 > >- Inverse relationship between ULC and Labour Productivity
 >
