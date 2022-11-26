@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "2c57fa2d941784fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f3d380be4a591b61",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md"
               }
             }
           },
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,8 +277,9 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "a20a86ec7af14d99",
+  "active": "2c57fa2d941784fb",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Productivity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
@@ -275,7 +288,6 @@
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
     "Global Trade.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md"
+    "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md"
   ]
 }
