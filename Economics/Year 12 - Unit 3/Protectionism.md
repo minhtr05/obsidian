@@ -13,4 +13,4 @@ Protectionism is a **policy** of a nation that favours the [[Products|products]]
 
 
 >[!cite]- References
-><iframe width="560" height="315" src="https://youtu.be/P0O8jrbB6xg?t=106" title = YouTube Video Player"
+><iframe width="560" height="315" src="https://youtu.be/P0O8jrbB6xg?t=106" title = "YouTube Video Player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
