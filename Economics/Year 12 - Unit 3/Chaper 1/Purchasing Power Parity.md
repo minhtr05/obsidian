@@ -25,12 +25,12 @@ $\% Under Valued = \frac{1.30-1.45}{1.45}*100 = -10.3\%$
 If correctly valued, Big Mac (US) = $\frac{6.70}{1.45}=\$4.62\text{ Australian Dollars}$
 
 >[!exq]+ ### Iphones Vs Ipads
->>
+>>[!example] Ipads - 1USD = 1.43AUD
 >Australian Ipad: $469 *AUD*
 American Ipad: $329 *USD*
 $$PPP=\frac{469}{329}=1.43$$
 **Interpreted** as: 1USD = 1.43AUD
-
+>[!example] Iphones - 1USD = 1.63AUD
 Australian Iphone: $1629 *AUD*
 American Iphone: $1000 *USD*
 $$PPP=\frac{1629}{1000}=1.629$$
