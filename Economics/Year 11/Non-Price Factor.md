@@ -1,4 +1,4 @@
-Factors that are not related to price that influence the Demand Or [[Demand Curve]] or [[Supply Curve]] of a Product
+Factors that are not related to price that influence the Demand Or [[Demand Curve]] or [[Supply Demand Curve]] of a Product
 
 
 ### Examples
