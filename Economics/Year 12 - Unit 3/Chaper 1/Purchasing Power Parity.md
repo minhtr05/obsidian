@@ -33,6 +33,7 @@ $$PPP=\frac{469}{329}=1.43$$
 Australian Iphone: $1629 *AUD*
 American Iphone: $1000 *USD*
 $$PPP=\frac{1629}{1000}=1.629$$
+**Interpreted** as: 1 USD = 1.63 AUD
 
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
