@@ -1,5 +1,6 @@
 Inflation is the Rising cost of **Goods and Services** that regular households buy, and is measured by the [[Consumer Price Index|Consumer Price Index (CPI)]], which is based on a regular "basket of goods" that a traditional household is likely to buy. 
 
+Inflation is caused by a 
 
 Target rate of **2-3%**
 
