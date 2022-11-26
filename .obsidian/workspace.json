@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "45513c9cb9219529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f3d380be4a591b61",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "world trade",
+                "query": "real unit labo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +169,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md"
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md"
               }
             }
           },
@@ -210,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
+                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,17 +266,17 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "f3d380be4a591b61",
+  "active": "45513c9cb9219529",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+    "Productivity.md",
+    "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Trade Terminology.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
     "Global Trade.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md"
+    "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md"
   ]
 }

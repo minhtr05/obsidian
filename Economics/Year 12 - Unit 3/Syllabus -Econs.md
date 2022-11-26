@@ -4,7 +4,7 @@
 ## Week 1-2
 
 ### Global Interdependance
-- [ ] [[Globalisation#Linkages|Linkages]] between [[Econonomy|Economies]] (including [[Trade]], [[Foreign Investment]], [[Tourism]] 
+- [ ] [[Globalisation#Linkages|Linkages]] between Economies(including [[Trade]], [[Foreign Investment]], [[Tourism]] 
 - [ ] The **[[Global Trade|composition of Global Trade]]**
 - [ ] [[Global Trade]] by major region
 - [ ] Changes in the pattern of [[Global Trade]] over time
