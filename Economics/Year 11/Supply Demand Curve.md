@@ -1,6 +1,6 @@
 
 ![[SupplyDemandCurve.png]]
-The **Supply/Demand** Curve moves to the left if a [[Non-Price Factor]] *decreases* Overall Supply, Or to the right if it increases Supply, e.g. Supply Chain Issues, 
+The **Supply/Demand** Curve moves to the left if a [[Non-Price Factor]] *decreases* Overall Supply, Or to the right if it increases Supply, e.g. Supply Chain Issues moving Supply Curve
 
 The Price will move along the demand curve following the same rules of Direction instead of **Shifting** if only price is changed.
 
