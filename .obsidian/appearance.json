@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Red Graphite",
+  "accentColor": "#8ebad2",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "baseFontSize": 21,
   "enabledCssSnippets": [
