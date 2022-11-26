@@ -7,7 +7,7 @@ One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], 
 >>[!exq]- Supply ↓ Equilibrium
 >Supply is lower than equilibrium, this causes an increase in price as consumer's compete over the limited supply, which is [[#Cost-Push|Cost Push Inflation]].
 >>[!exq]- Supply ↑ Equilibrium
->>Demand is above equilibrium, thus Consumer's must
+>>Demand rises above equilibrium for face masks due to COVID-19 thus Consumer's must compete to 
 
 
 Target rate of **2-3%**
