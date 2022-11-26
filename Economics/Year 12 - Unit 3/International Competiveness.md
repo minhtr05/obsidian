@@ -69,4 +69,4 @@ Productivity, Labour Market, Finance, Manageent practices
 Basic Infrastructure, technological Infrastructure, health and education/
 
 > [!cite]+ References
-> [[EconsY12U3C1.pdf]]
+> [[Unit 3 Chapter 1 Economics Book 12.pdf]]
