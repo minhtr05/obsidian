@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "49c7c359c8528719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aadd14bc612f75dc",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Products.md"
               }
             }
           },
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +229,9 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "dec90f1f0aac4b12",
+  "active": "49c7c359c8528719",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
     "Economics/Year 12 - Unit 3/Protectionism.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
@@ -227,7 +240,6 @@
     "Maths/Unit 3/Frequency Tables.md",
     "Maths/Unit 3/Class Notes/Untitled.md",
     "Maths/Unit 3/Relationship Variables.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Full Employment.md"
   ]
 }
