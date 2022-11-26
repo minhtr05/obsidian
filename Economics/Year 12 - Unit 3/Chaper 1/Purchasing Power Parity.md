@@ -27,7 +27,7 @@ If correctly valued, Big Mac (US) = $\frac{6.70}{1.45}=\$4.62\text{ Australian D
 ### Iphones US v. AU
 Australian Iphone: $1629 *AUD*
 American Iphone: $1000 *USD*
-$$PPP=$$
+$$PPP=\frac{1629}{1000}=1.629$$
 
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
