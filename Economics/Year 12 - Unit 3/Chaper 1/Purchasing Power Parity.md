@@ -27,8 +27,8 @@ If correctly valued, Big Mac (US) = $\frac{6.70}{1.45}=\$4.62\text{ Australian D
 ### Iphones Vs Ipads
 Australian Ipad: $469 *AUD*
 American Ipad: $329 *USD*
-
-
+$$PPP=\frac{469}{329}=1.43$$
+**Interpreted** as: 1USD = 1.43AUD
 
 Australian Iphone: $1629 *AUD*
 American Iphone: $1000 *USD*
