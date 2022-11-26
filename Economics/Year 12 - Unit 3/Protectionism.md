@@ -1,7 +1,9 @@
 >[!note] My Definition
 Protectionism is a **policy** of a nation that favours the [[Products|products]] produced by itself locally, over those produced abroad
 
-Every econonomy has some **Protectionist** policies, e.g. Tariffs, import quotas, product standards, and [[Subsidies|subsidies]] 
+Every econonomy has some **Protectionist** policies, e.g. Tariffs, import quotas, product standards, and [[Subsidies|subsidies]].
+
+
 
 
 
