@@ -8,132 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2538d17f4938e50c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f6bbf35c5d14b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Protectionism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35d89342009dd9fb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf"
-              }
-            }
-          },
-          {
-            "id": "5f90337ed7ceb546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785f0a7942e5ebb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 11/Supply Demand Curve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45513c9cb9219529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/International Competiveness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c57fa2d941784fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3d380be4a591b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f3c0ca15953c566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c7c359c8528719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aadd14bc612f75dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9285507e60527526",
             "type": "leaf",
             "state": {
@@ -158,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 12,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -209,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "923a6426b9b78c3d",
