@@ -1,1 +1,3 @@
-A **Protectionist** econonomy is one that favours the product of its own goods over 
+A **Protectionist** econonomy is one that favours the [[Products|products]] produced by the nation over those produced abroad
+
+#### 
