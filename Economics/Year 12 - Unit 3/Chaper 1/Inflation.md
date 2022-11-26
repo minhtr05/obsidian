@@ -2,7 +2,8 @@ Target rate of **2-3%**
 
 Inflation is the Rising cost of **Goods and Services** that regular households buy, and is measured by the [[Consumer Price Index|Consumer Price Index (CPI)]], which is based on a regular "basket of goods" that a traditional household is likely to buy. 
 
-One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], if it is not at equilibrium then Inflation, in [[#Types of Inflaton]]
+One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], if it is not at equilibrium then Inflation, [[#Types of Inflaton|in some form]], occurs
+
 >[!example]- Examples
 >
 >
