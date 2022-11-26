@@ -1,7 +1,7 @@
-Purchasing Power parity refers to the idea that the **same product should sell for the same price** in different countries, **once converted to a common [[Exchange Rate|exchange rate]]**, this is a measure of [[International Competiveness]], if a currency is undervalued it is bad for importers in that economy, and good for exporters from that economy.
+Purchasing Power parity refers to the idea that the **same product should sell for the same price** in different countries **after converted to a common [[Exchange Rate|exchange rate]]**, this is a measure of [[International Competiveness]], if a currency is undervalued it is bad for importers in that economy, and good for exporters from that economy.
 
 Formula:
-$$PPP=\frac{\text{Price Big Mac (in country of comparison currency)}}{\text{Price Big Mac (in USD)}}$$
+$$PPP=\frac{\text{Price Big Mac (Local Currency)}}{\text{Price Big Mac (in USD)}}$$
 
 Checking if Currency is under/overvalued
 $$\text{\% over or under}=\frac{PPP-ER}{ER}*100$$
