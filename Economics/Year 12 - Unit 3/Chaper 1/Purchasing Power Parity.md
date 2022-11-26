@@ -25,7 +25,9 @@ $\% Under Valued = \frac{1.30-1.45}{1.45}*100 = -10.3\%$
 If correctly valued, Big Mac (US) = $\frac{6.70}{1.45}=\$4.62\text{ Australian Dollars}$
 
 ### Iphones US v. AU
-AUD (Iphone): $
+Australian Iphone: $1629 *AUD*
+American Iphone: $1000 *USD*
+$$PPP=$$
 
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
