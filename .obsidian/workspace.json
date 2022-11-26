@@ -38,24 +38,24 @@
             }
           },
           {
-            "id": "aadd14bc612f75dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f90337ed7ceb546",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aadd14bc612f75dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Protectionism.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Protectionism.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Protectionism.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "9f6bbf35c5d14b90",
+  "active": "5f90337ed7ceb546",
   "lastOpenFiles": [
     "Economics/Year 12 - Unit 3/Protectionism.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
