@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "3f3c0ca15953c566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49c7c359c8528719",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -116,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Parity",
+                "query": "world trade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md"
               }
             }
           },
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,20 +239,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
-  "active": "5f90337ed7ceb546",
+  "active": "3f3c0ca15953c566",
   "lastOpenFiles": [
+    "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
     "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
     "Economics/Year 12 - Unit 3/Protectionism.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Maths/Unit 3/Frequency Tables.md",
-    "Maths/Unit 3/Class Notes/Untitled.md",
-    "Maths/Unit 3/Relationship Variables.md"
+    "Maths/Unit 3/Class Notes/Untitled.md"
   ]
 }
