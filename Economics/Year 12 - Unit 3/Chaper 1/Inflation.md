@@ -1,6 +1,8 @@
+Target rate of **2-3%**
+
 Inflation is the Rising cost of **Goods and Services** that regular households buy, and is measured by the [[Consumer Price Index|Consumer Price Index (CPI)]], which is based on a regular "basket of goods" that a traditional household is likely to buy. 
 
-One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], if it is not at equilibrium it.
+One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], if it is not at equilibrium then Inflation, in [[#Types of Inflaton]]
 >[!example]- Examples
 >
 >
@@ -13,7 +15,7 @@ One of the causes for Inflation is an inbalance in the [[Supply Demand Curve]], 
 >>Demand rises above equilibrium for face masks due to COVID-19 thus Consumer's must compete to acquire these goods, meaning they **pull** up the prices, causing [[#Demand-Pull|Demand Pull Inflation]].
 
 
-Target rate of **2-3%**
+
 
 ## Types of Inflaton
 
