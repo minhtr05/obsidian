@@ -50,6 +50,30 @@
             }
           },
           {
+            "id": "7364fbc90766bf08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Trade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "953b57429315631e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f3c0ca15953c566",
             "type": "leaf",
             "state": {
@@ -98,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -145,8 +169,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md"
               }
             }
           },
@@ -199,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Composition of Trade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,17 +264,17 @@
     "direction": "horizontal",
     "width": 251.5
   },
-  "active": "5f90337ed7ceb546",
+  "active": "953b57429315631e",
   "lastOpenFiles": [
+    "Global Trade.md",
+    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Globalisation.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Global Organisations.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Unit 3 Chapter 1 Economics Book 12.pdf",
     "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Products.md",
     "Economics/Year 12 - Unit 3/Chaper 1/PQE - Analysing Data.md",
     "Economics/Year 12 - Unit 3/Protectionism.md",
-    "Maths/Unit 3/Frequency Tables.md",
-    "Maths/Unit 3/Class Notes/Untitled.md"
+    "Maths/Unit 3/Frequency Tables.md"
   ]
 }
