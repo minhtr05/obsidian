@@ -1,0 +1,1 @@
+A **Protectionist** econonomy is one that favours the product of its own goods over 
