@@ -8,32 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9285507e60527526",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f40b7cdeb5792045",
+            "id": "91ff62752c280467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "51d1beed7f345bc7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
               }
             }
           }
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supply",
+                "query": "crime fiction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +65,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c72a3556ecf4dac3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210,
+    "collapsed": true
   },
   "right": {
     "id": "923a6426b9b78c3d",
@@ -104,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
+              }
             }
           },
           {
@@ -134,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,42 +146,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "c72a3556ecf4dac3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "155dd3cc16c96bfd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 251.5,
     "collapsed": true
   },
-  "active": "9285507e60527526",
+  "active": "91ff62752c280467",
   "lastOpenFiles": [
-    "Economics/Year 11/Competitive Markets.md",
-    "[Relationship Variables.md",
-    "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
-    "English/Unit 3/Crime Fiction/Crime Fiction.md",
-    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
-    "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Gross Domestic Product.md",
-    "Economics/Year 11/Supply Demand Curve.md"
+    "English/Concepts/Dialogue.md",
+    "English/Composing.md",
+    "English/Concepts/Howtousedialogue.pdf",
+    "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
+    "conflict-files-obsidian-git.md",
+    "English/Concepts/Context.md",
+    "English/Concepts/Cause-and-effect Sequence.md",
+    "English/Unit 3/Crime Fiction/Crime Fiction.md",
+    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
   ]
 }
