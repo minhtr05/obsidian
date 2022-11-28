@@ -41,8 +41,12 @@ $$PPP=\frac{1629}{1000}=1.629$$
 > 
 > This difference in **Implied Purchasing Parity** shows us that apple may be taking advantage of the popularity of the Iphone in Australia and upcharging on the price.
 
-| Local Price | Exchange Rate | 
-| ----------- | ------------- |
+| Country   | Local Price | Exchange Rate | Price |
+| --------- | ----------- | ------------- | ----- |
+| Australia | $6.60AUD    | 1.45          | $4.55 |
+| China     | 24 yuan     | 6.67          | $3.50 |
+| Japan     |             |               |       |
+|           |             |               |       |
 
 
 
