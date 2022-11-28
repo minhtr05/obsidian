@@ -26,7 +26,7 @@ Introduce, with careful signposting, provide the back story to how the character
 Build tension, progress the plot towards the [[#Climax]]
 
 #### Climax
-Fiish at a high point of tension, but one where the read
+Fiish at a high point of tension, but one where the reader can imagine how the rest of the story plays out.
 
 
 
