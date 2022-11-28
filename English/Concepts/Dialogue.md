@@ -28,4 +28,4 @@ Refers to the speech btween character, it should be used relatively sparingly, a
 >
      “Correct. What I am saying is that the structure needing to be replaced is all of it. I’m sorry. Your foundation is nonexistent.”
 
-Dialogue is used sparingly here
+Dialogue is used here sparingly to **remove the "boring parts"** of their conversation this is done by 
