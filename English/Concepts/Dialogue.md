@@ -66,8 +66,14 @@ Kyle gestures with his chin and <mark style="background: #BBFABBA6;">says,</mark
 
 <mark style="background: #ADCCFFA6;">(2)</mark> Hunter says, "Half the kids in you can do it"
 
-<mark style="background: #ADCCFFA6;">(2)</mark> Hunter (3) <mark style="background: #FFF3A3A6;">says, "Your</mark> dad could use you in his factory. Save money on electricity."
+<mark style="background: #ADCCFFA6;">(2)</mark> Hunter <mark style="background: #FFF3A3A6;">(3)</mark> <mark style="background: #FFF3A3A6;">says, "Your</mark> dad could use you in his factory. Save money on electricity."
 
-(2) "He's not my dad."
+<mark style="background: #ADCCFFA6;">(2)</mark> "He's not my dad."
 
 She makes the silver flicker at the ends of he rfingers again. Te boys watch.
+
+(1) Simple Clean dialogue tags.
+
+(2) New paragraph when speaker changes
+
+(3) Quotes start with a capital letter, even after a comma.
