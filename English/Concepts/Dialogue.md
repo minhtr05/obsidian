@@ -19,6 +19,8 @@
 
 ### Examples
 
+#### Dialogue used to hook the reader
+
 >[!cite]+ Barabara Kingsolver; Unsheltered
 >     “The simplest thing would be to tear it down,” the man said. “The house is a shambles.”
 >
@@ -33,6 +35,8 @@ Dialogue is used here sparingly to **remove the "boring parts"** of their conver
 They avoid extraneious details that are uninteresting and unimportant to the story (e.g. Price to pay, how she'll pay, introductions), and instead begin with a [[Composing#Sizzling start|Sizzling Start]], that **hooks** the reader by telling them that the house she cherishes can't be salvaged.
 
 Starting off in the middle of the conflict and not explaining it fully it disoritentates the reader, mirroring the emotion that Willa is experiencing in response to the bad news.
+
+#### Dialogue used to develop Character Relationships
 
 >[!cite]+ Jane Austen - Pride and Prejudice
 >     “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”
