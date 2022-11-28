@@ -1,3 +1,4 @@
+
 Purchasing Power parity refers to the idea that the **same product should sell for the same price** in different countries **after converted to a common [[Exchange Rate|exchange rate]]**, this is a measure of [[International Competiveness]], if a currency is undervalued it is bad for importers in that economy, and good for exporters from that economy.
 
 Formula:

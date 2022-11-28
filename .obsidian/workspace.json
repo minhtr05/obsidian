@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Concepts/Dialogue.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210,
-    "collapsed": true
+    "width": 210
   },
   "right": {
     "id": "923a6426b9b78c3d",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Concepts/Dialogue.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Concepts/Dialogue.md"
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Concepts/Dialogue.md",
+                "file": "Economics/Year 12 - Unit 3/Chaper 1/Purchasing Power Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +178,15 @@
   },
   "active": "91ff62752c280467",
   "lastOpenFiles": [
-    "English/Composing.md",
+    "Economics/Year 12 - Unit 3/International Competiveness.md",
     "English/Concepts/Dialogue.md",
+    "English/Composing.md",
     "English/Concepts/Howtousedialogue.pdf",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
     "conflict-files-obsidian-git.md",
     "English/Concepts/Context.md",
     "English/Concepts/Cause-and-effect Sequence.md",
     "English/Unit 3/Crime Fiction/Crime Fiction.md",
-    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
-    "English/Syllabus - English.md"
+    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf"
   ]
 }
