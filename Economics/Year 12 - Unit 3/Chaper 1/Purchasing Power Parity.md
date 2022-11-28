@@ -43,14 +43,16 @@ $$PPP=\frac{1629}{1000}=1.629$$
 
 | Country     | Local Price | Exchange Rate | Price |
 | ----------- | ----------- | ------------- | ----- |
-| Australia   | $6.60AUD    | 1.45          | $4.55 |
+| Australia   | $6.70AUD    | 1.45          | $4.55 |
 | China       | 24 yuan     | 6.67          | $3.50 |
 | Japan       | 390 yen     | 137.86        | $2.83 |
 | New Zealand | $7.10NZD    | 1.60          | $.44  |
 | US          | $5.15USD    | 1             | $5.15      |
 
 i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
-$\frac{}{}
+Australia $\frac{6.70}{4.55}=1.45$
+China $\frac{24}{350}=$
+
 
 
 >[!cite]- References
