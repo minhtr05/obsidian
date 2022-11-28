@@ -51,8 +51,9 @@ $$PPP=\frac{1629}{1000}=1.629$$
 
 i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
 Australia $\frac{6.70}{4.55}=1.45$
-China $\frac{24}{350}=$
+China $\frac{24}{3.50}=6.86$
 
+ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which the Australian and Chinese currency were over-valued or under-valued
 
 
 >[!cite]- References
