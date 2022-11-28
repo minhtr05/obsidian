@@ -30,4 +30,4 @@ Refers to the speech btween character, it should be used relatively sparingly, a
 
 Dialogue is used here sparingly to **remove the "boring parts"** of their conversation this is done by *entering the conversation late*.
 
-They avoid extraneious details that are uninteresting and unimportant to the story (e.g. Price to pay, )
+They avoid extraneious details that are uninteresting and unimportant to the story (e.g. Price to pay, how she'll pay, introductions), and instead begin with a 

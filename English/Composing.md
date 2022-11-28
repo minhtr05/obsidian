@@ -16,7 +16,13 @@ Prompts usually are;
 
 ![[Pasted image 20221128121515.png]]
 
+#### Sizzling start
+Start in the m
+
+
+
 [[Dialogue]]
+
 
 
 The Resulting text Composed must be shaped for a particular [[Purpose]], [[Audience]], and [[Context]].
