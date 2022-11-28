@@ -2,5 +2,9 @@ Refers to the speech btween character, it should be used relatively sparingly, a
 
 **Dialogue** should be brief, and allow the reader to infer deeper meaning
 
->[exq] Reveal characters
->"I e"
+>[!note] Reveal characters
+>"I... er.. didn't take the choclate Sir!"
+
+>[!note] Make Scene more dramatic
+I really hate you!
+
