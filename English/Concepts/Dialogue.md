@@ -32,4 +32,6 @@ Dialogue is used here sparingly to **remove the "boring parts"** of their conver
 
 They avoid extraneious details that are uninteresting and unimportant to the story (e.g. Price to pay, how she'll pay, introductions), and instead begin with a [[Composing#Sizzling start|Sizzling Start]], that **hooks** the reader by telling them that the house she cherishes can't be salvaged.
 
-Starting off in the middle of the conflict and not explaining it fully it forces the reader to infer 
+Starting off in the middle of the conflict and not explaining it fully it disoritentates the reader, mirroring the emotion that Willa is experiencing in response to the bad news.
+
+>[!cite]+ 
