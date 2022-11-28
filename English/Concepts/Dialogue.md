@@ -55,4 +55,4 @@ Starting off in the middle of the conflict and not explaining it fully it disori
 >
      “Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”
 
-**Dialogue** is used to develop Character Relationships, here Mrs. Bennet has long indepth replies, very often containing a large amount of substance, which is replied to by Mr. Bennet who's responses are so brief they are represented by sentences 
+**Dialogue** is used to develop Character Relationships, here Mrs. Bennet has long indepth replies, very often containing a large amount of substance, which is replied to by Mr. Bennet who's responses are so brief they are represented by sentences rather than Dialogue, "**"
