@@ -12,4 +12,7 @@ Prompts usually are;
 * Still Image
 * Straightforward Introduction
 
+[[Dialogue]]
+
+
 The Resulting text Composed must be shaped for a particular [[Purpose]], [[Audience]], and [[Context]].
