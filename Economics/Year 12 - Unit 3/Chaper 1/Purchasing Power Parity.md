@@ -58,7 +58,9 @@ ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which 
 **Undervalued**  Australia = $\frac{1.28-1.45}{1.45}*100=-11.72$
 **Undervalued** China = $\frac{4.66-6.67}{6.67}*100=-30.13$
 
-iii. 
+iii. [[Instructional Verbs - Econs#Explain|EXPLAIN]] what this source suggests about the [[International Competiveness]] of Australia in comparison to that of China.
+
+China is more competitive than australia since its currency is undervalued in International Markets making its imports cheaper in
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
 >[filename](file:///<absolute-path>)
