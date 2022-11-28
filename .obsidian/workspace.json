@@ -11,9 +11,11 @@
             "id": "9285507e60527526",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf"
+                "file": "Economics/Year 11/Competitive Markets.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -40,7 +42,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -91,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 200
   },
   "right": {
     "id": "923a6426b9b78c3d",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
+                "file": "Economics/Year 11/Competitive Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md"
+                "file": "Economics/Year 11/Competitive Markets.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Unit 3/Crime Fiction/Crime Fiction.md",
+                "file": "Economics/Year 11/Competitive Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +184,17 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "f40b7cdeb5792045",
+  "active": "9285507e60527526",
   "lastOpenFiles": [
-    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
+    "[Relationship Variables.md",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
     "English/Unit 3/Crime Fiction/Crime Fiction.md",
+    "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
     "Economics/Year 12 - Unit 3/International Competiveness.md",
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Gross Domestic Product.md",
     "Economics/Year 11/Supply Demand Curve.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Economic Indicators.md"
+    "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md"
   ]
 }
