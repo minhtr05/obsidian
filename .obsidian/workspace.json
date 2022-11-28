@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "092e03958c104d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Composing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Composing.md",
+                "file": "English/Concepts/Dialogue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Composing.md"
+                "file": "English/Concepts/Dialogue.md"
               }
             }
           },
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Composing.md",
+                "file": "English/Concepts/Dialogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +166,10 @@
     "width": 251.5,
     "collapsed": true
   },
-  "active": "092e03958c104d25",
+  "active": "91ff62752c280467",
   "lastOpenFiles": [
-    "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
     "English/Composing.md",
+    "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
     "English/Concepts/Dialogue.md",
     "conflict-files-obsidian-git.md",
     "English/Concepts/Context.md",
