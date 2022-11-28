@@ -20,7 +20,13 @@ Prompts usually are;
 Start in the "*middle res*", the middle of the action to **hook** your reader's attention and engage them with the story
 
 #### Backfill
-Introduce, with careful signposting, provide the back story to how the 
+Introduce, with careful signposting, provide the back story to how the character got into the situation introduced in the [[#Sizzling start]].
+
+#### Rising Action
+Build tension, progress the plot towards the [[#Climax]]
+
+#### Climax
+Fiish at a high point of tension, but one where the read
 
 
 
