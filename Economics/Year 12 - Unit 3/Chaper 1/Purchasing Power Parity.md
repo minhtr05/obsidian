@@ -41,19 +41,21 @@ $$PPP=\frac{1629}{1000}=1.629$$
 > 
 > This difference in **Implied Purchasing Parity** shows us that apple may be taking advantage of the popularity of the Iphone in Australia and upcharging on the price.
 
-| Country     | Local Price | Exchange Rate | Price |
+>[!exq]+
+> 
+>| Country     | Local Price | Exchange Rate | Price |
 | ----------- | ----------- | ------------- | ----- |
 | Australia   | $6.70AUD    | 1.45          | $4.55 |
 | China       | 24 yuan     | 6.67          | $3.50 |
 | Japan       | 390 yen     | 137.86        | $2.83 |
 | New Zealand | $7.10NZD    | 1.60          | $.44  |
 | US          | $5.15USD    | 1             | $5.15      |
-
-i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
+>
+>i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
 Australia $\frac{6.70}{5.51}=1.28$
 China $\frac{24}{5.15}=4.66$
-
-ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which the Australian and Chinese currency were over-valued or under-valued
+>
+>ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which the Australian and Chinese currency were over-valued or under-valued
 >
 >**Undervalued**  Australia = $\frac{1.28-1.45}{1.45}*100=-11.72$
 >**Undervalued** China = $\frac{4.66-6.67}{6.67}*100=-30.13$
@@ -61,6 +63,7 @@ ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which 
 >iii. [[Instructional Verbs - Econs#Explain|EXPLAIN]] what this source suggests about the [[International Competiveness]] of Australia in comparison to that of China.
 >
 >China is more competitive than australia since its currency is undervalued in International Markets making its imports cheaper in comparison to Australia, and thus more **competitive**
+
 
 
 >[!cite]- References
