@@ -17,7 +17,10 @@ Prompts usually are;
 ![[Pasted image 20221128121515.png]]
 
 #### Sizzling start
-Start in the m
+Start in the "*middle res*", the middle of the action to **hook** your reader's attention and engage them with the story
+
+#### Backfill
+Introduce, with careful signposting, provide the back story to how the 
 
 
 
