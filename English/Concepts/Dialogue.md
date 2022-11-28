@@ -66,4 +66,8 @@ Kyle gestures with his chin and says,
 
 Hunter says, "Half the kids in you can do it"
 
-Hunter 
+Hunter says, "Your dad could use you in his factory. Save money on electricity."
+
+"He's not my dad."
+
+She makes the silver flicker at the ends of he rfingers again. Te boys watch.
