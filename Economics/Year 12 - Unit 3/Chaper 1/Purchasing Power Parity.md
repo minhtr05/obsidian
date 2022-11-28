@@ -64,7 +64,7 @@ China $\frac{24}{5.15}=4.66$
 >
 >China is more competitive than australia since its currency is undervalued in International Markets making its imports cheaper in comparison to Australia, and thus more **competitive**
 
-New Zealand 1.38 --- -0.1375%
+New Zealand 1.38 --- -0.14
 
 
 >[!cite]- References
