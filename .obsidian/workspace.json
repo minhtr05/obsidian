@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "9d11a219e8661aba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "English/Concepts/Howtousedialogue.pdf"
+              }
+            }
+          },
+          {
             "id": "91fc86679aec3209",
             "type": "leaf",
             "state": {
@@ -168,15 +178,15 @@
   },
   "active": "91ff62752c280467",
   "lastOpenFiles": [
+    "English/Concepts/Howtousedialogue.pdf",
+    "English/Concepts/Dialogue.md",
     "English/Composing.md",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
-    "English/Concepts/Dialogue.md",
     "conflict-files-obsidian-git.md",
     "English/Concepts/Context.md",
     "English/Concepts/Cause-and-effect Sequence.md",
     "English/Unit 3/Crime Fiction/Crime Fiction.md",
     "English/Unit 3/Crime Fiction/MysteryCrimeThrillerPlotOutline.pdf",
-    "English/Syllabus - English.md",
-    "Maths/Unit 3/Residuals.md"
+    "English/Syllabus - English.md"
   ]
 }

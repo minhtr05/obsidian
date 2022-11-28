@@ -2,9 +2,11 @@ Refers to the speech btween character, it should be used relatively sparingly, a
 
 **Dialogue** should be brief, and allow the reader to infer deeper meaning
 
->[!note] Reveal characters
+>[!example]- What can Dialogue do?
+>
+>>[!note] Reveal characters
 >"I... er.. didn't take the choclate Sir!"
-
->[!note] Make Scene more dramatic
+>
+>>[!note] Make Scene more dramatic
 I really hate you!
 
