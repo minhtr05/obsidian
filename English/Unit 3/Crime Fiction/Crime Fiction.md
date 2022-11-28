@@ -18,7 +18,7 @@ The Can also include a Moral Question of guilt and justice.
 - A crime (usually a murder wih other crimes being committed either as a result of,  or as the cause of the murder)
 - A morally upright, intellignt and isolated protagonist who often has a ersonal interest in the case
 - A villain, often physically as well as metaphorically ugly and/or deformed
-- Clues and [[Red Herrings]] or false clues that lead to the the solving of the crime. These clues are often so difficult to see that only te incredicle itellect of he sleuth can see them, though from the point they are revealed they seem obvious
+- Clues and [[Red Herrings]] or false clues that lead to the the solving of the crime. These clues are often so difficult to see that only te incredicle intellect of the sleuth can see them, though from the point they are revealed they seem obvious
 - Danger and or coflict that ust be faced by the hero
 - A satisfacctory resolution, where tright is restorted to the world and justice has been dealt out by the protagonist
 - Ethical decisions and a moral message

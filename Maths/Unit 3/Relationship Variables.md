@@ -14,7 +14,7 @@ Just cause there is an assosciation between two variables does not mean that one
 
 >[!exq]- Icecream + Murders
 >
-There is a [[Correlation Coefficient]] of [[Linear Relationships#Types of Relationships|R = 0.82]] between two variables, Icecream Sold and Murder rate, does not mean seeling less icecream will result in less Murders. The Underlying cause is *Temperature* as it affects both of them
+There is a [[Correlation Coefficient]] of [[Linear Relationships#Types of Relationships|R = 0.82]] between two variables, Icecream Sold and Murder rate, does not mean selling less icecream will result in less Murders. The Underlying cause is *Temperature* as it affects both of them
 
 ##### Confouding Variable
 The **Confounding variable** is the third factor that is impacting both variables. in the Icecream + Murders example this is Temperature, these to things are coincidental but are still not related, because [[[Relationship Variables#Correlation ≠ Causatio| Causation does not equal Correlation.n]]]

@@ -1,7 +1,3 @@
-adding some stuff in here to check sync!
-
-and here be the danger
-
 #### Definition
 The degree to which a country can produce goods and services which meet the [[International Competiveness#Test Of International Markets|Test Of International Markets]], while simultaneously maintaining and expanding the real incomes of its people over the long term.
 
@@ -69,4 +65,4 @@ Productivity, Labour Market, Finance, Manageent practices
 Basic Infrastructure, technological Infrastructure, health and education/
 
 > [!cite]+ References
-> [[EconsY12U3C1.pdf]]
+> [[Unit 3 Chapter 1 Economics Book 12.pdf]]
