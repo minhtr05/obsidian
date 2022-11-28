@@ -5,14 +5,15 @@ Refers to the speech btween character, it should be used relatively sparingly, a
 >[!example]- What can Dialogue do?
 >
 >>[!note] Reveal characters
->"I... er.. didn't take the choclate Sir!"
+>"*I... er.. didn't take the choclate Sir!*"
 >
 >>
 >
 >>[!note] Make Scene more dramatic
-I really hate you!
+"*I really hate you!*"
 >
 >>
 >
 >>[!exq] Move the plot forward
->There's no way out ecept through that weird door.""
+>"*There's no way out ecept through that weird door.*"
+
