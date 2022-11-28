@@ -60,14 +60,14 @@ In Contrast Mr. Bennet responses are so brief they are represented by sentences 
 
 ### Dialogue used Sparningly
 
-Kyle gestures with his chin and says,
+Kyle gestures with his chin and <mark style="background: #BBFABBA6;">says,</mark> <mark style="background: #BBFABBA6;">(1)</mark>
 "Heard a bunch of guys killed a girl in Nebraska last week for doing that."
-"For smoking? Harsh."
+(2) "For smoking? Harsh."
 
-Hunter says, "Half the kids in you can do it"
+(2) Hunter says, "Half the kids in you can do it"
 
-Hunter says, "Your dad could use you in his factory. Save money on electricity."
+(2) Hunter <mark style="background: #FFF3A3A6;">says, "Your</mark> dad could use you in his factory. Save money on electricity."
 
-"He's not my dad."
+(2)"He's not my dad."
 
 She makes the silver flicker at the ends of he rfingers again. Te boys watch.
