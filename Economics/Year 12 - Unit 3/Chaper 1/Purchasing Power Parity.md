@@ -49,7 +49,7 @@ $$PPP=\frac{1629}{1000}=1.629$$
 | New Zealand | $7.10NZD    | 1.60          | $.44  |
 | US          | $5.15USD    | 1             | $5.15      |
 
-i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia n
+i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
 
 
 
