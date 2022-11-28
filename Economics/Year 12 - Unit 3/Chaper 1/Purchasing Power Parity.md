@@ -55,8 +55,10 @@ China $\frac{24}{5.15}=4.66$
 
 ii. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the percentage by which the Australian and Chinese currency were over-valued or under-valued
 
-Australia = $\frac{1.28-1.45}{1.45}*100=-11.72$
-China = 
+**Undervalued**  Australia = $\frac{1.28-1.45}{1.45}*100=-11.72$
+**Undervalued** China = $\frac{4.66-6.67}{6.67}*100=-30.13$
+
+iii. 
 >[!cite]- References
 >[[Unit 3 Chapter 1 Economics Book 12.pdf]]
 >[filename](file:///<absolute-path>)
