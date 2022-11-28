@@ -58,4 +58,12 @@ Starting off in the middle of the conflict and not explaining it fully it disori
 **Dialogue** is used to develop Character Relationships, here Mrs. Bennet has long indepth replies, very often containing a large amount of substance.
 In Contrast Mr. Bennet responses are so brief they are represented by sentences rather than Dialogue, "Mr. Bennet made no asnwer", or "Mr.Bennet  replied that he had not", implying to the reader that he has learned to entertain her idle chatter, if only for his own sake, hence "*you want to tell me, and I have no objection to hearing it.*".
 
-### Dial
+### Dialogue used Sparningly
+
+Kyle gestures with his chin and says,
+"Heard a bunch of guys killed a girl in Nebraska last week for doing that."
+"For smoking? Harsh."
+
+Hunter says, "Half the kids in you can do it"
+
+Hunter 
