@@ -11,12 +11,8 @@
             "id": "9285507e60527526",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Year 11/Competitive Markets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -108,7 +104,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Year 11/Competitive Markets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics/Year 11/Competitive Markets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Year 11/Competitive Markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +178,7 @@
   },
   "active": "9285507e60527526",
   "lastOpenFiles": [
+    "Economics/Year 11/Competitive Markets.md",
     "[Relationship Variables.md",
     "English/Unit 3/Crime Fiction/ShortCrimefictionStructure.pdf",
     "English/Unit 3/Crime Fiction/Crime Fiction.md",
@@ -194,7 +187,6 @@
     "Economics/Year 12 - Unit 3/Syllabus -Econs.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Inflation.md",
     "Economics/Year 12 - Unit 3/Chaper 1/Gross Domestic Product.md",
-    "Economics/Year 11/Supply Demand Curve.md",
-    "Economics/Year 12 - Unit 3/Chaper 1/Instructional Verbs - Econs.md"
+    "Economics/Year 11/Supply Demand Curve.md"
   ]
 }
