@@ -50,8 +50,7 @@ $$PPP=\frac{1629}{1000}=1.629$$
 | US          | $5.15USD    | 1             | $5.15      |
 
 i. [[Instructional Verbs - Econs#Calculate|CALCULATE]] the purchasing powerp arity for Australia and China
-
-
+$\frac{}{}
 
 
 >[!cite]- References
